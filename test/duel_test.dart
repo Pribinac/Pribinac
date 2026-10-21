@@ -32,15 +32,14 @@ void main() {
     }
   });
 
-  test('meč ima 6 rundi po 3 pitanja, bez ponavljanja pitanja', () {
-    final match = DuelMatch(bank, random: Random(7));
+  const cats = ['opste', 'istorija', 'geografija', 'nauka', 'sport', 'muzika'];
+
+  test('meč ima 6 rundi po 3 pitanja u izabranim kategorijama, bez ponavljanja', () {
+    final match = DuelMatch(bank, categories: cats, random: Random(7));
     final seen = <int>{};
     while (!match.finished) {
-      final cat = match.playerPicksNext
-          ? match.categoryOptions().first
-          : match.botPickCategory();
-      final round = match.startRound(cat);
-      expect(round.pickedByPlayer, match.rounds.length.isOdd);
+      final round = match.startRound();
+      expect(round.category, cats[match.rounds.length - 1]);
       for (final q in round.questions) {
         expect(seen.add(q.id), isTrue);
         match.answer(q.correctIndex);
@@ -49,24 +48,22 @@ void main() {
     }
     expect(match.rounds.length, 6);
     expect(match.playerTotal, 18);
-    expect(match.botTotal, lessThanOrEqualTo(18));
+    expect(match.opponentTotal, lessThanOrEqualTo(18));
   });
 
   test('isteklo vreme (null) ne donosi poene', () {
-    final match = DuelMatch(bank, random: Random(3));
-    match.startRound(match.categoryOptions().first);
+    final match = DuelMatch(bank, categories: cats, random: Random(3));
+    match.startRound();
     for (var i = 0; i < 3; i++) {
       expect(match.answer(null), isFalse);
     }
     expect(match.playerTotal, 0);
   });
 
-  test('računar sa veštinom 1.0 uvek pogađa, sa 0.0 nikad', () {
-    final good = DuelMatch(bank, random: Random(5), botSkill: 1);
-    good.startRound(good.categoryOptions().first);
-    expect(good.botTotal, 3);
-    final bad = DuelMatch(bank, random: Random(5), botSkill: 0);
-    bad.startRound(bad.categoryOptions().first);
-    expect(bad.botTotal, 0);
+  test('protivnik sa veštinom 1.0 uvek pogađa, sa 0.0 nikad', () {
+    final good = DuelMatch(bank, categories: cats, random: Random(5), opponentSkill: 1)..startRound();
+    expect(good.opponentTotal, 3);
+    final bad = DuelMatch(bank, categories: cats, random: Random(5), opponentSkill: 0)..startRound();
+    expect(bad.opponentTotal, 0);
   });
 }

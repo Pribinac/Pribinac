@@ -39,15 +39,6 @@ class QuestionBank {
 
   int countIn(String category) => _byCategory[category]?.length ?? 0;
 
-  /// Vraća [n] različitih kategorija koje imaju bar [minQuestions] pitanja.
-  List<String> randomCategories(Random random, {int n = 3, int minQuestions = 3}) {
-    final usable = [
-      for (final e in _byCategory.entries)
-        if (e.value.length >= minQuestions) e.key,
-    ]..shuffle(random);
-    return usable.take(n).toList();
-  }
-
   /// Vuče [count] nasumičnih pitanja iz kategorije, preskačući već viđena
   /// (`seen`). Ako nestane novih, ponavlja stara umesto da padne.
   List<Question> draw(
