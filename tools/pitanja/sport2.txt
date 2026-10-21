@@ -1,0 +1,16 @@
+Koji fudbalski klub je poznat kao "Zebre"?|Juventus|Milan|Inter|Roma
+Koji fudbalski klub je poznat kao "Crveni đavoli"?|Mančester junajted|Liverpul|Arsenal|Bajern
+Koji fudbalski klub je poznat kao "Topnici"?|Arsenal|Čelsi|Tottenham|Vest Hem
+Koji fudbalski klub je poznat kao "Blaugrana"?|Barselona|Real Madrid|Valensija|Sevilja
+Koji fudbalski klub je poznat kao "Rosoneri"?|Milan|Inter|Juventus|Napoli
+Koji klub iz Nemačke igra na stadionu Signal Iduna Park?|Borusija Dortmund|Bajern|Šalke|Lajpcig
+Ko je trener koji je 2024. vodio Real Madrid do titule u Ligi šampiona?|Karlo Anćeloti|Zinedin Zidan|Žoze Murinjo|Hansi Flik
+Koji fudbaler je osvojio Svetsko prvenstvo kao igrač i kao trener, Franc Bekenbauer?|Franc Bekenbauer|Johan Krojf|Mišel Platini|Pele
+Koji sport igraju Los Anđeles Lejkers?|Košarka|Fudbal|Hokej|Bejzbol
+Koji sport igraju Njujork Jenkisi?|Bejzbol|Košarka|Hokej|Američki fudbal
+Koji sport je najpopularniji u Kanadi zimi?|Hokej na ledu|Košarka|Kriket|Fudbal
+Koliko boja ima olimpijski krugovi?|5|4|6|7
+Koliko krugova ima olimpijski simbol?|5|4|6|7
+Koje boje je prva pozicija na pobedničkom postolju?|Zlatna|Srebrna|Bronzana|Crvena
+Koja država je izumela džudo?|Japan|Kina|Koreja|Tajland
+Koja država je izumela tekvondo?|Južna Koreja|Japan|Kina|Tajland
