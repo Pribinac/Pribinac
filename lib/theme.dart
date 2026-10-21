@@ -21,6 +21,7 @@ ThemeData buildTheme() {
   ).copyWith(primary: AppColors.primary, surface: AppColors.surface);
   return ThemeData(
     useMaterial3: true,
+    fontFamily: 'Inter',
     colorScheme: scheme,
     scaffoldBackgroundColor: AppColors.bg,
     appBarTheme: const AppBarTheme(
