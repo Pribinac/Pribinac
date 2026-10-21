@@ -12,7 +12,7 @@ class DuelRound {
   final String category;
   final List<Question> questions;
 
-  /// Indeks izabranog odgovora; `null` znači da nije odgovoreno (vreme isteklo).
+  /// Indeks izabranog odgovora; `null` znači da nije odgovoreno (vrijeme isteklo).
   final List<int?> playerAnswers;
   final List<int?> opponentAnswers;
 
@@ -46,7 +46,7 @@ class DuelMatch {
   final List<String> categories;
   final Random random;
 
-  /// Verovatnoća da protivnik tačno odgovori na pojedino pitanje.
+  /// Vjerovatnoća da protivnik tačno odgovori na pojedino pitanje.
   final double opponentSkill;
 
   final List<DuelRound> rounds = [];
@@ -64,7 +64,7 @@ class DuelMatch {
 
   DuelRound get current => rounds.last;
 
-  /// Počinje sledeću rundu u izabranoj kategoriji.
+  /// Počinje sljedeću rundu u izabranoj kategoriji.
   DuelRound startRound() {
     assert(rounds.length < roundsTotal);
     final category = categories[rounds.length];

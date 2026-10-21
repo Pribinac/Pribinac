@@ -13,7 +13,7 @@ Koja je hemijska formula vode?|H2O|CO2|O2|NaCl
 Koja je hemijska formula kuhinjske soli?|NaCl|KCl|CaCO3|H2SO4
 Koja je hemijska formula ugljen-dioksida?|CO2|CO|O2|H2O
 Koliko hemijskih elemenata ima u periodnom sistemu?|118|108|92|126
-Koji gas čini najveći deo Zemljine atmosfere?|Azot|Kiseonik|Ugljen-dioksid|Argon
+Koji gas čini najveći dio Zemljine atmosfere?|Azot|Kiseonik|Ugljen-dioksid|Argon
 Koji gas biljke upijaju za fotosintezu?|Ugljen-dioksid|Kiseonik|Azot|Vodonik
 Koji gas je neophodan za disanje ljudi?|Kiseonik|Azot|Helijum|Metan
 Koji je najlakši element?|Vodonik|Helijum|Litijum|Kiseonik
@@ -34,36 +34,36 @@ Ko je pronašao telefon?|Aleksandar Grejem Bel|Tomas Edison|Nikola Tesla|Markoni
 Ko je pronašao radio?|Gulijelmo Markoni|Tomas Edison|Aleksandar Bel|Hajnrih Herc
 Ko je pronašao parnu mašinu u usavršenom obliku?|Džejms Vat|Džordž Stivenson|Isak Njutn|Tomas Edison
 Ko je srpski naučnik rođen u Smiljanu?|Nikola Tesla|Mihajlo Pupin|Milutin Milanković|Jovan Cvijić
-Gde je rođen Nikola Tesla?|Smiljan|Beograd|Gospić|Novi Sad
+Gdje je rođen Nikola Tesla?|Smiljan|Beograd|Gospić|Novi Sad
 Koja jedinica je nazvana po Nikoli Tesli?|Tesla (jedinica magnetne indukcije)|Vat|Om|Amper
 Koji srpski naučnik je autor teorije o ledenim dobima i klimatskim ciklusima?|Milutin Milanković|Jovan Cvijić|Mihajlo Pupin|Pavle Savić
-Ko je srpski naučnik koji je radio na Univerzitetu Kolumbija i izumeo pupinove kalemove?|Mihajlo Pupin|Nikola Tesla|Milutin Milanković|Mileva Marić
-Ko je bila prva supruga Alberta Ajnštajna, poreklom iz Vojvodine?|Mileva Marić|Elza Ajnštajn|Marija Kiri|Lise Majtner
+Ko je srpski naučnik koji je radio na Univerzitetu Kolumbija i izumio pupinove kalemove?|Mihajlo Pupin|Nikola Tesla|Milutin Milanković|Mileva Marić
+Ko je bila prva supruga Alberta Ajnštajna, porijeklom iz Vojvodine?|Mileva Marić|Elza Ajnštajn|Marija Kiri|Lise Majtner
 Koja planeta je najbliža Suncu?|Merkur|Venera|Mars|Zemlja
 Koja planeta je najveća u Sunčevom sistemu?|Jupiter|Saturn|Neptun|Uran
 Koja planeta je poznata kao Crvena planeta?|Mars|Venera|Jupiter|Merkur
 Koja planeta ima najupečatljivije prstenove?|Saturn|Jupiter|Uran|Neptun
 Koliko planeta ima Sunčev sistem?|8|9|7|10
 Koja je najtoplija planeta u Sunčevom sistemu?|Venera|Merkur|Mars|Jupiter
-Koji je najveći Jupiterov mesec?|Ganimed|Evropa|Io|Kalisto
-Koji je jedini prirodni satelit Zemlje?|Mesec|Fobos|Titan|Evropa
+Koji je najveći Jupiterov mjesec?|Ganimed|Evropa|Io|Kalisto
+Koji je jedini prirodni satelit Zemlje?|Mjesec|Fobos|Titan|Evropa
 Koliko traje jedan dan na Zemlji (rotacija)?|Oko 24 sata|Oko 12 sati|Oko 48 sati|Oko 36 sati
 Koliko traje Zemljina revolucija oko Sunca?|365 dana i oko 6 sati|300 dana|400 dana|180 dana
-Kako se zove naša galaksija?|Mlečni put|Andromeda|Trougao|Magelanov oblak
-Koja je najbliža zvezda Zemlji?|Sunce|Proksima Kentauri|Sirijus|Polaris
-Koja je najsjajnija zvezda na noćnom nebu?|Sirijus|Polaris|Vega|Betelgez
-Koliko svetlosti putuje u sekundi približno?|300.000 km|150.000 km|30.000 km|3.000.000 km
+Kako se zove naša galaksija?|Mliječni put|Andromeda|Trougao|Magelanov oblak
+Koja je najbliža zvijezda Zemlji?|Sunce|Proksima Kentauri|Sirijus|Polaris
+Koja je najsjajnija zvijezda na noćnom nebu?|Sirijus|Polaris|Vega|Betelgez
+Koliko svjetlosti putuje u sekundi približno?|300.000 km|150.000 km|30.000 km|3.000.000 km
 Koji teleskop je lansiran 1990. godine?|Habl|Džejms Veb|Kepler|Spicer
 Koji svemirski teleskop je lansiran 2021. godine?|Džejms Veb|Habl|Kepler|Čandra
 Koja svemirska stanica kruži oko Zemlje?|Međunarodna svemirska stanica|Mir|Skajlab|Tjangong 3
-Koji astronaut je prvi hodao po Mesecu?|Nil Armstrong|Baz Oldrin|Majkl Kolins|Jurij Gagarin
+Koji astronaut je prvi hodao po Mjesecu?|Nil Armstrong|Baz Oldrin|Majkl Kolins|Jurij Gagarin
 Koja životinja je najveća na Zemlji?|Plavi kit|Slon|Kit sperma|Ajkula kitovka
 Koja životinja je najbrža na kopnu?|Gepard|Lav|Antilopa|Konj
 Koja ptica ne leti i živi na Antarktiku?|Pingvin|Nojev|Kivi|Emu
 Koja životinja je najveća ptica?|Noj|Emu|Kondor|Albatros
 Koja ptica ima najveći raspon krila?|Albatros|Orao|Kondor|Pelikan
 Koja životinja spava obešena naglavačke?|Šišmiš|Sova|Majmun|Leopard
-Koja životinja jede samo bambus?|Džinovska panda|Koala|Lenjivac|Lemur
+Koja životinja jede samo bambus?|Džinovska panda|Koala|Ljenjivac|Lemur
 Koja životinja jede samo eukaliptus?|Koala|Kengur|Panda|Dingo
 Koja životinja je simbol Australije i ima torbu?|Kengur|Koala|Vombat|Dingo
 Koliko srca ima hobotnica?|3|1|2|4
@@ -73,30 +73,30 @@ Koliko krila ima pčela?|4|2|6|8
 Koja životinja daje med?|Pčela|Osa|Stršljen|Bumbar
 Koja životinja je sisar koji leti?|Šišmiš|Sova|Golub|Leptir
 Koji sisar živi u moru i nije riba?|Delfin|Tuna|Ajkula|Som
-Koji organ pumpa krv u ljudskom telu?|Srce|Jetra|Bubreg|Pluća
-Koliko kostiju ima odrastao čovek?|206|256|306|106
-Koji je najveći organ ljudskog tela?|Koža|Jetra|Mozak|Pluća
+Koji organ pumpa krv u ljudskom tijelu?|Srce|Jetra|Bubreg|Pluća
+Koliko kostiju ima odrastao čovjek?|206|256|306|106
+Koji je najveći organ ljudskog tijela?|Koža|Jetra|Mozak|Pluća
 Koji organ čisti krv i stvara mokraću?|Bubreg|Jetra|Slezina|Pankreas
 Koji organ proizvodi insulin?|Pankreas|Jetra|Bubreg|Žučna kesa
-Koliko zuba ima odrastao čovek?|32|28|30|36
+Koliko zuba ima odrastao čovjek?|32|28|30|36
 Koji vitamin dobijamo od sunca?|Vitamin D|Vitamin C|Vitamin A|Vitamin B12
 Koji vitamin je u citrusima?|Vitamin C|Vitamin D|Vitamin K|Vitamin B
 Koja krvna grupa je univerzalni davalac?|0 negativna|AB pozitivna|A pozitivna|B negativna
 Koja krvna grupa je univerzalni primalac?|AB pozitivna|0 negativna|A negativna|B pozitivna
-Koliko hromozoma ima čovek?|46|23|48|44
+Koliko hromozoma ima čovjek?|46|23|48|44
 Ko je otkrio strukturu DNK sa Frensisom Krikom?|Džejms Votson|Gregor Mendel|Čarls Darvin|Luj Paster
 Šta proizvode biljke u procesu fotosinteze?|Kiseonik i glukozu|Ugljen-dioksid|Azot|Metan
-Koji deo biljke upija vodu iz zemljišta?|Koren|List|Cvet|Plod
-Koja je najveća biljka na svetu po visini?|Sekvoja|Hrast|Bambus|Jela
-Koja jedinica meri električni napon?|Volt|Amper|Om|Vat
-Koja jedinica meri električnu struju?|Amper|Volt|Om|Vat
-Koja jedinica meri električni otpor?|Om|Volt|Amper|Vat
-Koja jedinica meri snagu?|Vat|Džul|Njutn|Paskal
-Koja jedinica meri silu?|Njutn|Džul|Vat|Paskal
-Koja jedinica meri energiju?|Džul|Njutn|Vat|Paskal
-Koja jedinica meri frekvenciju?|Herc|Vat|Om|Tesla
-Koja jedinica meri pritisak?|Paskal|Džul|Njutn|Vat
-Šta je brže, svetlost ili zvuk?|Svetlost|Zvuk|Isto|Zavisi od temperature
+Koji dio biljke upija vodu iz zemljišta?|Koren|List|Cvijet|Plod
+Koja je najveća biljka na svijetu po visini?|Sekvoja|Hrast|Bambus|Jela
+Koja jedinica mjeri električni napon?|Volt|Amper|Om|Vat
+Koja jedinica mjeri električnu struju?|Amper|Volt|Om|Vat
+Koja jedinica mjeri električni otpor?|Om|Volt|Amper|Vat
+Koja jedinica mjeri snagu?|Vat|Džul|Njutn|Paskal
+Koja jedinica mjeri silu?|Njutn|Džul|Vat|Paskal
+Koja jedinica mjeri energiju?|Džul|Njutn|Vat|Paskal
+Koja jedinica mjeri frekvenciju?|Herc|Vat|Om|Tesla
+Koja jedinica mjeri pritisak?|Paskal|Džul|Njutn|Vat
+Šta je brže, svjetlost ili zvuk?|Svjetlost|Zvuk|Isto|Zavisi od temperature
 Koji materijal je dobar provodnik električne struje?|Bakar|Guma|Staklo|Drvo
 Koji metal je tečan na sobnoj temperaturi?|Živa|Olovo|Kalaj|Cink
 Koji metal je najlakši?|Litijum|Aluminijum|Magnezijum|Natrijum
@@ -105,7 +105,7 @@ Koji metal je najlakši?|Litijum|Aluminijum|Magnezijum|Natrijum
 Šta je sastav čelika?|Gvožđe i ugljenik|Bakar i kalaj|Bakar i cink|Gvožđe i bakar
 Koji pH ima neutralna rastvor?|7|0|14|1
 Koja kiselina se nalazi u želucu?|Hlorovodonična kiselina|Sirćetna kiselina|Sumporna kiselina|Azotna kiselina
-Koji gas se koristi u balonima da bi leteli?|Helijum|Azot|Kiseonik|Ugljen-dioksid
+Koji gas se koristi u balonima da bi letjeli?|Helijum|Azot|Kiseonik|Ugljen-dioksid
 Koliko stepeni ima pun krug?|360|180|90|270
 Koliko iznosi zbir uglova u trouglu?|180°|360°|90°|270°
 Koliko iznosi broj Pi približno?|3,14|2,71|1,62|3,41
@@ -117,25 +117,25 @@ Koliko ima centimetara u metru?|100|10|1000|50
 Koliko ima grama u kilogramu?|1000|100|10|10000
 Koliko minuta ima u satu?|60|100|30|120
 Koliko sekundi ima u danu?|86.400|3600|43.200|100.000
-Šta je to "Veliki prasak"?|Teorija o nastanku svemira|Vrsta eksplozije vulkana|Zvezdana eksplozija|Sudar galaksija
-Šta proučava geologija?|Zemlju i stene|Zvezde|Životinje|Biljke
-Šta proučava botanika?|Biljke|Životinje|Stene|Zvezde
-Šta proučava zoologija?|Životinje|Biljke|Stene|Gljive
-Šta proučava astronomija?|Nebeska tela|Životinje|Stene|Klimu
-Šta proučava meteorologija?|Vreme i klimu|Stene|Zvezde|Životinje
+Šta je to "Veliki prasak"?|Teorija o nastanku svemira|Vrsta eksplozije vulkana|Zvjezdana eksplozija|Sudar galaksija
+Šta proučava geologija?|Zemlju i stijene|Zvijezde|Životinje|Biljke
+Šta proučava botanika?|Biljke|Životinje|Stijene|Zvijezde
+Šta proučava zoologija?|Životinje|Biljke|Stijene|Gljive
+Šta proučava astronomija?|Nebeska tijela|Životinje|Stijene|Klimu
+Šta proučava meteorologija?|Vrijeme i klimu|Stijene|Zvijezde|Životinje
 Šta proučava ihtiologija?|Ribe|Ptice|Gmizavce|Insekte
 Šta proučava ornitologija?|Ptice|Ribe|Insekte|Gmizavce
 Šta proučava entomologija?|Insekte|Ptice|Ribe|Gljive
 Koji metal je potreban za pravljenje magneta?|Gvožđe|Zlato|Srebro|Aluminijum
 Koja je brzina zvuka u vazduhu približno?|343 m/s|3000 m/s|34 m/s|3430 m/s
 Koliko procenata Zemlje pokriva voda?|Oko 71%|Oko 50%|Oko 90%|Oko 30%
-Koliko procenata ljudskog tela čini voda?|Oko 60%|Oko 20%|Oko 90%|Oko 40%
+Koliko procenata ljudskog tijela čini voda?|Oko 60%|Oko 20%|Oko 90%|Oko 40%
 Šta je gluten?|Protein u pšenici|Šećer|Mast|Vitamin
 Šta je glukoza?|Vrsta šećera|Vrsta masti|Vitamin|Mineral
 Šta je hemoglobin?|Protein u crvenim krvnim zrncima|Hormon|Vitamin|Šećer
-Koja krvna zrnca su zadužena za borbu protiv infekcije?|Bela krvna zrnca|Crvena krvna zrnca|Trombociti|Plazma
+Koja krvna zrnca su zadužena za borbu protiv infekcije?|Bijela krvna zrnca|Crvena krvna zrnca|Trombociti|Plazma
 Koji mineral je važan za zdrave kosti?|Kalcijum|Gvožđe|Cink|Natrijum
 Koji hormon reguliše šećer u krvi?|Insulin|Adrenalin|Tiroksin|Estrogen
 Ko su braća koja su 1903. izvela prvi motorni let avionom?|Braća Rajt|Braća Montgolfje|Braća Lumijer|Braća Vačovski
-Šta nosi nasledne informacije u ćeliji?|DNK|Protein|Mast|Šećer
-Koje je najdublje mesto u okeanima?|Marijanski rov|Portorikanski rov|Javanski rov|Kurilski rov
+Šta nosi nasljedne informacije u ćeliji?|DNK|Protein|Mast|Šećer
+Koje je najdublje mjesto u okeanima?|Marijanski rov|Portorikanski rov|Javanski rov|Kurilski rov

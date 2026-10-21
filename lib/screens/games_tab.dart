@@ -18,8 +18,8 @@ class GamesTab extends StatelessWidget {
             Text('Moje partije', style: TextStyle(fontSize: 22, fontWeight: FontWeight.bold)),
             SizedBox(height: 8),
             Text(
-              'Ovde će biti tvoje aktivne partije sa pravim protivnicima. '
-              'Za to je potreban server, koji dolazi u sledećem koraku.',
+              'Ovdje će biti tvoje aktivne partije sa pravim protivnicima. '
+              'Za to je potreban server, koji dolazi u sljedećem koraku.',
               textAlign: TextAlign.center,
               style: TextStyle(color: AppColors.muted),
             ),

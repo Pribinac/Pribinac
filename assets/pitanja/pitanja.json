@@ -56,7 +56,7 @@
   {
    "id": 5,
    "kategorija": "geografija",
-   "pitanje": "Koji je glavni grad Severne Makedonije?",
+   "pitanje": "Koji je glavni grad Sjeverne Makedonije?",
    "tacan": "Skoplje",
    "netacni": [
     "Bitolj",
@@ -507,7 +507,7 @@
   {
    "id": 46,
    "kategorija": "geografija",
-   "pitanje": "Koja reka protiče kroz Beograd i uliva se u Dunav?",
+   "pitanje": "Koja rijeka protiče kroz Beograd i uliva se u Dunav?",
    "tacan": "Sava",
    "netacni": [
     "Drina",
@@ -518,7 +518,7 @@
   {
    "id": 47,
    "kategorija": "geografija",
-   "pitanje": "Kroz koji grad protiče reka Nišava?",
+   "pitanje": "Kroz koji grad protiče rijeka Nišava?",
    "tacan": "Niš",
    "netacni": [
     "Kraljevo",
@@ -529,7 +529,7 @@
   {
    "id": 48,
    "kategorija": "geografija",
-   "pitanje": "Koja reka čini veći deo granice između Srbije i Bosne i Hercegovine?",
+   "pitanje": "Koja rijeka čini veći dio granice između Srbije i Bosne i Hercegovine?",
    "tacan": "Drina",
    "netacni": [
     "Sava",
@@ -562,7 +562,7 @@
   {
    "id": 51,
    "kategorija": "geografija",
-   "pitanje": "Koja je najviša planina na svetu?",
+   "pitanje": "Koja je najviša planina na svijetu?",
    "tacan": "Mont Everest",
    "netacni": [
     "K2",
@@ -595,7 +595,7 @@
   {
    "id": 54,
    "kategorija": "geografija",
-   "pitanje": "Koja je najveća država na svetu po površini?",
+   "pitanje": "Koja je najveća država na svijetu po površini?",
    "tacan": "Rusija",
    "netacni": [
     "Kanada",
@@ -606,7 +606,7 @@
   {
    "id": 55,
    "kategorija": "geografija",
-   "pitanje": "Koja je država na svetu najmnogoljudnija?",
+   "pitanje": "Koja je država na svijetu najmnogoljudnija?",
    "tacan": "Indija",
    "netacni": [
     "Kina",
@@ -617,7 +617,7 @@
   {
    "id": 56,
    "kategorija": "geografija",
-   "pitanje": "Koja je najmanja država na svetu?",
+   "pitanje": "Koja je najmanja država na svijetu?",
    "tacan": "Vatikan",
    "netacni": [
     "Monako",
@@ -633,7 +633,7 @@
    "netacni": [
     "Atlantski okean",
     "Indijski okean",
-    "Severni ledeni okean"
+    "Sjeverni ledeni okean"
    ]
   },
   {
@@ -643,7 +643,7 @@
    "tacan": "Azija",
    "netacni": [
     "Afrika",
-    "Severna Amerika",
+    "Sjeverna Amerika",
     "Evropa"
    ]
   },
@@ -661,7 +661,7 @@
   {
    "id": 60,
    "kategorija": "geografija",
-   "pitanje": "Koja je najduža reka na svetu?",
+   "pitanje": "Koja je najduža rijeka na svijetu?",
    "tacan": "Nil",
    "netacni": [
     "Amazon",
@@ -672,7 +672,7 @@
   {
    "id": 61,
    "kategorija": "geografija",
-   "pitanje": "Koja reka protiče kroz Pariz?",
+   "pitanje": "Koja rijeka protiče kroz Pariz?",
    "tacan": "Sena",
    "netacni": [
     "Loara",
@@ -683,7 +683,7 @@
   {
    "id": 62,
    "kategorija": "geografija",
-   "pitanje": "Koja reka protiče kroz London?",
+   "pitanje": "Koja rijeka protiče kroz London?",
    "tacan": "Temza",
    "netacni": [
     "Mersi",
@@ -694,7 +694,7 @@
   {
    "id": 63,
    "kategorija": "geografija",
-   "pitanje": "Koja reka protiče kroz Prag?",
+   "pitanje": "Koja rijeka protiče kroz Prag?",
    "tacan": "Vltava",
    "netacni": [
     "Laba",
@@ -705,7 +705,7 @@
   {
    "id": 64,
    "kategorija": "geografija",
-   "pitanje": "Koja reka protiče kroz Beč i Budimpeštu?",
+   "pitanje": "Koja rijeka protiče kroz Beč i Budimpeštu?",
    "tacan": "Dunav",
    "netacni": [
     "Rajna",
@@ -716,7 +716,7 @@
   {
    "id": 65,
    "kategorija": "geografija",
-   "pitanje": "Koja reka protiče kroz Rim?",
+   "pitanje": "Koja rijeka protiče kroz Rim?",
    "tacan": "Tibar",
    "netacni": [
     "Po",
@@ -727,7 +727,7 @@
   {
    "id": 66,
    "kategorija": "geografija",
-   "pitanje": "Koja reka protiče kroz Kairo?",
+   "pitanje": "Koja rijeka protiče kroz Kairo?",
    "tacan": "Nil",
    "netacni": [
     "Eufrat",
@@ -749,7 +749,7 @@
   {
    "id": 68,
    "kategorija": "geografija",
-   "pitanje": "Koje je najdublje jezero na svetu?",
+   "pitanje": "Koje je najdublje jezero na svijetu?",
    "tacan": "Bajkalsko jezero",
    "netacni": [
     "Viktorijino jezero",
@@ -771,7 +771,7 @@
   {
    "id": 70,
    "kategorija": "geografija",
-   "pitanje": "Na kojoj reci se nalazi Đerdapska klisura?",
+   "pitanje": "Na kojoj rijeci se nalazi Đerdapska klisura?",
    "tacan": "Dunav",
    "netacni": [
     "Sava",
@@ -793,7 +793,7 @@
   {
    "id": 72,
    "kategorija": "geografija",
-   "pitanje": "Koje more se nalazi između Evrope i Male Azije severno od Turske?",
+   "pitanje": "Koje more se nalazi između Evrope i Male Azije sjeverno od Turske?",
    "tacan": "Crno more",
    "netacni": [
     "Mramorno more",
@@ -804,7 +804,7 @@
   {
    "id": 73,
    "kategorija": "geografija",
-   "pitanje": "Koje je najveće ostrvo na svetu?",
+   "pitanje": "Koje je najveće ostrvo na svijetu?",
    "tacan": "Grenland",
    "netacni": [
     "Madagaskar",
@@ -1233,7 +1233,7 @@
   {
    "id": 112,
    "kategorija": "geografija",
-   "pitanje": "Koja je valuta u Severnoj Makedoniji?",
+   "pitanje": "Koja je valuta u Sjevernoj Makedoniji?",
    "tacan": "Denar",
    "netacni": [
     "Dinar",
@@ -1358,14 +1358,14 @@
    "tacan": "Antarktik",
    "netacni": [
     "Azija",
-    "Severna Amerika",
+    "Sjeverna Amerika",
     "Evropa"
    ]
   },
   {
    "id": 124,
    "kategorija": "geografija",
-   "pitanje": "Koja pustinja je najveća vrela pustinja na svetu?",
+   "pitanje": "Koja pustinja je najveća vrela pustinja na svijetu?",
    "tacan": "Sahara",
    "netacni": [
     "Gobi",
@@ -1376,7 +1376,7 @@
   {
    "id": 125,
    "kategorija": "geografija",
-   "pitanje": "Koja pustinja je najsuvlja na svetu?",
+   "pitanje": "Koja pustinja je najsuvlja na svijetu?",
    "tacan": "Atakama",
    "netacni": [
     "Sahara",
@@ -1387,7 +1387,7 @@
   {
    "id": 126,
    "kategorija": "geografija",
-   "pitanje": "Koji tesnac razdvaja Evropu i Afriku?",
+   "pitanje": "Koji tjesnac razdvaja Evropu i Afriku?",
    "tacan": "Gibraltar",
    "netacni": [
     "Bosfor",
@@ -1431,7 +1431,7 @@
   {
    "id": 130,
    "kategorija": "geografija",
-   "pitanje": "Koji je najveći grad u Hrvatskoj posle Zagreba?",
+   "pitanje": "Koji je najveći grad u Hrvatskoj poslije Zagreba?",
    "tacan": "Split",
    "netacni": [
     "Rijeka",
@@ -1519,7 +1519,7 @@
   {
    "id": 138,
    "kategorija": "geografija",
-   "pitanje": "Koja država je poznata po lalama i vetrenjačama?",
+   "pitanje": "Koja država je poznata po lalama i vjetrenjačama?",
    "tacan": "Holandija",
    "netacni": [
     "Belgija",
@@ -1563,7 +1563,7 @@
   {
    "id": 142,
    "kategorija": "geografija",
-   "pitanje": "Koja država ima najviše ostrva na svetu?",
+   "pitanje": "Koja država ima najviše ostrva na svijetu?",
    "tacan": "Švedska",
    "netacni": [
     "Indonezija",
@@ -1574,7 +1574,7 @@
   {
    "id": 143,
    "kategorija": "geografija",
-   "pitanje": "Koja reka je najduža u Evropi?",
+   "pitanje": "Koja rijeka je najduža u Evropi?",
    "tacan": "Volga",
    "netacni": [
     "Dunav",
@@ -1585,7 +1585,7 @@
   {
    "id": 144,
    "kategorija": "geografija",
-   "pitanje": "Koja je druga najduža reka u Evropi?",
+   "pitanje": "Koja je druga najduža rijeka u Evropi?",
    "tacan": "Dunav",
    "netacni": [
     "Rajna",
@@ -1607,7 +1607,7 @@
   {
    "id": 146,
    "kategorija": "geografija",
-   "pitanje": "Gde se uliva Dunav?",
+   "pitanje": "Gdje se uliva Dunav?",
    "tacan": "U Crno more",
    "netacni": [
     "U Jadransko more",
@@ -1618,7 +1618,7 @@
   {
    "id": 147,
    "kategorija": "geografija",
-   "pitanje": "Gde izvire Dunav?",
+   "pitanje": "Gdje izvire Dunav?",
    "tacan": "U Crnoj šumi (Nemačka)",
    "netacni": [
     "U Alpima (Švajcarska)",
@@ -1640,7 +1640,7 @@
   {
    "id": 149,
    "kategorija": "geografija",
-   "pitanje": "Koji planinski venac prolazi kroz Italiju i Švajcarsku?",
+   "pitanje": "Koji planinski vijenac prolazi kroz Italiju i Švajcarsku?",
    "tacan": "Alpi",
    "netacni": [
     "Pirineji",
@@ -1651,7 +1651,7 @@
   {
    "id": 150,
    "kategorija": "geografija",
-   "pitanje": "Koji planinski venac razdvaja Španiju i Francusku?",
+   "pitanje": "Koji planinski vijenac razdvaja Španiju i Francusku?",
    "tacan": "Pirineji",
    "netacni": [
     "Alpi",
@@ -1717,7 +1717,7 @@
   {
    "id": 156,
    "kategorija": "geografija",
-   "pitanje": "Gde se nalazi Tadž Mahal?",
+   "pitanje": "Gdje se nalazi Tadž Mahal?",
    "tacan": "Indija",
    "netacni": [
     "Pakistan",
@@ -1728,7 +1728,7 @@
   {
    "id": 157,
    "kategorija": "istorija",
-   "pitanje": "Koje godine je počeo Prvi svetski rat?",
+   "pitanje": "Koje godine je počeo Prvi svjetski rat?",
    "tacan": "1914",
    "netacni": [
     "1912",
@@ -1739,7 +1739,7 @@
   {
    "id": 158,
    "kategorija": "istorija",
-   "pitanje": "Koje godine je završen Prvi svetski rat?",
+   "pitanje": "Koje godine je završen Prvi svjetski rat?",
    "tacan": "1918",
    "netacni": [
     "1917",
@@ -1750,7 +1750,7 @@
   {
    "id": 159,
    "kategorija": "istorija",
-   "pitanje": "Koje godine je počeo Drugi svetski rat?",
+   "pitanje": "Koje godine je počeo Drugi svjetski rat?",
    "tacan": "1939",
    "netacni": [
     "1938",
@@ -1761,7 +1761,7 @@
   {
    "id": 160,
    "kategorija": "istorija",
-   "pitanje": "Koje godine je završen Drugi svetski rat u Evropi?",
+   "pitanje": "Koje godine je završen Drugi svjetski rat u Evropi?",
    "tacan": "1945",
    "netacni": [
     "1944",
@@ -1772,7 +1772,7 @@
   {
    "id": 161,
    "kategorija": "istorija",
-   "pitanje": "Ko je ubio austrougarskog prestolonaslednika Franca Ferdinanda u Sarajevu?",
+   "pitanje": "Ko je ubio austrougarskog prijestolonasljednika Franca Ferdinanda u Sarajevu?",
    "tacan": "Gavrilo Princip",
    "netacni": [
     "Nedeljko Čabrinović",
@@ -1926,7 +1926,7 @@
   {
    "id": 175,
    "kategorija": "istorija",
-   "pitanje": "Koji zakonik je donet za vreme cara Dušana?",
+   "pitanje": "Koji zakonik je donet za vrijeme cara Dušana?",
    "tacan": "Dušanov zakonik",
    "netacni": [
     "Sudebnik",
@@ -2014,7 +2014,7 @@
   {
    "id": 183,
    "kategorija": "istorija",
-   "pitanje": "Koja bitka je poznata kao Napoleonova najveća pobeda 1805?",
+   "pitanje": "Koja bitka je poznata kao Napoleonova najveća pobjeda 1805?",
    "tacan": "Austerlic",
    "netacni": [
     "Vaterloo",
@@ -2025,7 +2025,7 @@
   {
    "id": 184,
    "kategorija": "istorija",
-   "pitanje": "Ko je bio prvi predsednik SAD?",
+   "pitanje": "Ko je bio prvi predsjednik SAD?",
    "tacan": "Džordž Vašington",
    "netacni": [
     "Abraham Linkoln",
@@ -2047,7 +2047,7 @@
   {
    "id": 186,
    "kategorija": "istorija",
-   "pitanje": "Ko je bio američki predsednik za vreme građanskog rata?",
+   "pitanje": "Ko je bio američki predsjednik za vrijeme građanskog rata?",
    "tacan": "Abraham Linkoln",
    "netacni": [
     "Džordž Vašington",
@@ -2058,7 +2058,7 @@
   {
    "id": 187,
    "kategorija": "istorija",
-   "pitanje": "Ko je bio vođa Sovjetskog Saveza u većem delu Drugog svetskog rata?",
+   "pitanje": "Ko je bio vođa Sovjetskog Saveza u većem delu Drugog svjetskog rata?",
    "tacan": "Josif Staljin",
    "netacni": [
     "Vladimir Lenjin",
@@ -2080,7 +2080,7 @@
   {
    "id": 189,
    "kategorija": "istorija",
-   "pitanje": "Ko je bio britanski premijer tokom Drugog svetskog rata?",
+   "pitanje": "Ko je bio britanski premijer tokom Drugog svjetskog rata?",
    "tacan": "Vinston Čerčil",
    "netacni": [
     "Nevil Čemberlen",
@@ -2091,7 +2091,7 @@
   {
    "id": 190,
    "kategorija": "istorija",
-   "pitanje": "Ko je bio šef Jugoslavije posle Drugog svetskog rata?",
+   "pitanje": "Ko je bio šef Jugoslavije poslije Drugog svjetskog rata?",
    "tacan": "Josip Broz Tito",
    "netacni": [
     "Aleksandar Ranković",
@@ -2102,7 +2102,7 @@
   {
    "id": 191,
    "kategorija": "istorija",
-   "pitanje": "Gde je rođen Josip Broz Tito?",
+   "pitanje": "Gdje je rođen Josip Broz Tito?",
    "tacan": "Kumrovec",
    "netacni": [
     "Zagreb",
@@ -2179,7 +2179,7 @@
   {
    "id": 198,
    "kategorija": "istorija",
-   "pitanje": "Ko je bio načelnik Vrhovne komande srpske vojske u Prvom svetskom ratu?",
+   "pitanje": "Ko je bio načelnik Vrhovne komande srpske vojske u Prvom svjetskom ratu?",
    "tacan": "Radomir Putnik",
    "netacni": [
     "Živojin Mišić",
@@ -2190,7 +2190,7 @@
   {
    "id": 199,
    "kategorija": "istorija",
-   "pitanje": "Koja bitka 1914. je prva velika saveznička pobeda u Prvom svetskom ratu?",
+   "pitanje": "Koja bitka 1914. je prva velika saveznička pobjeda u Prvom svjetskom ratu?",
    "tacan": "Cerska bitka",
    "netacni": [
     "Kolubarska bitka",
@@ -2212,7 +2212,7 @@
   {
    "id": 201,
    "kategorija": "istorija",
-   "pitanje": "Koje godine je počelo bombardovanje Beograda u Drugom svetskom ratu?",
+   "pitanje": "Koje godine je počelo bombardovanje Beograda u Drugom svjetskom ratu?",
    "tacan": "1941",
    "netacni": [
     "1939",
@@ -2223,7 +2223,7 @@
   {
    "id": 202,
    "kategorija": "istorija",
-   "pitanje": "Koje godine je Beograd oslobođen u Drugom svetskom ratu?",
+   "pitanje": "Koje godine je Beograd oslobođen u Drugom svjetskom ratu?",
    "tacan": "1944",
    "netacni": [
     "1943",
@@ -2498,7 +2498,7 @@
   {
    "id": 227,
    "kategorija": "istorija",
-   "pitanje": "Ko je bio najpoznatiji faraon dečak, čija je grobnica pronađena 1922?",
+   "pitanje": "Ko je bio najpoznatiji faraon dječak, čija je grobnica pronađena 1922?",
    "tacan": "Tutankamon",
    "netacni": [
     "Ramzes II",
@@ -2509,7 +2509,7 @@
   {
    "id": 228,
    "kategorija": "istorija",
-   "pitanje": "Ko je osvojio veći deo poznatog sveta u 4. veku p.n.e.?",
+   "pitanje": "Ko je osvojio veći dio poznatog svijeta u 4. vijeku p.n.e.?",
    "tacan": "Aleksandar Veliki",
    "netacni": [
     "Julije Cezar",
@@ -2542,7 +2542,7 @@
   {
    "id": 231,
    "kategorija": "istorija",
-   "pitanje": "Gde su održane prve moderne Olimpijske igre 1896?",
+   "pitanje": "Gdje su održane prve moderne Olimpijske igre 1896?",
    "tacan": "Atina",
    "netacni": [
     "Pariz",
@@ -2663,7 +2663,7 @@
   {
    "id": 242,
    "kategorija": "istorija",
-   "pitanje": "Ko je bila engleska kraljica u vreme poraza Španske armade 1588?",
+   "pitanje": "Ko je bila engleska kraljica u vrijeme poraza Španske armade 1588?",
    "tacan": "Elizabeta I",
    "netacni": [
     "Viktorija",
@@ -2729,7 +2729,7 @@
   {
    "id": 248,
    "kategorija": "istorija",
-   "pitanje": "Ko je prvi čovek na Mesecu?",
+   "pitanje": "Ko je prvi čovjek na Mjesecu?",
    "tacan": "Nil Armstrong",
    "netacni": [
     "Baz Oldrin",
@@ -2740,7 +2740,7 @@
   {
    "id": 249,
    "kategorija": "istorija",
-   "pitanje": "Koje godine je čovek prvi put sleteo na Mesec?",
+   "pitanje": "Koje godine je čovjek prvi put sletio na Mjesec?",
    "tacan": "1969",
    "netacni": [
     "1961",
@@ -2751,7 +2751,7 @@
   {
    "id": 250,
    "kategorija": "istorija",
-   "pitanje": "Ko je prvi čovek u svemiru?",
+   "pitanje": "Ko je prvi čovjek u svemiru?",
    "tacan": "Jurij Gagarin",
    "netacni": [
     "Nil Armstrong",
@@ -2773,7 +2773,7 @@
   {
    "id": 252,
    "kategorija": "istorija",
-   "pitanje": "Ko je bio američki predsednik ubijen u Dalasu 1963?",
+   "pitanje": "Ko je bio američki predsjednik ubijen u Dalasu 1963?",
    "tacan": "Džon F. Kenedi",
    "netacni": [
     "Ričard Nikson",
@@ -2795,7 +2795,7 @@
   {
    "id": 254,
    "kategorija": "istorija",
-   "pitanje": "Ko je bio prvi crnački predsednik Južne Afrike?",
+   "pitanje": "Ko je bio prvi crnački predsjednik Južne Afrike?",
    "tacan": "Nelson Mandela",
    "netacni": [
     "Dezmond Tutu",
@@ -2806,7 +2806,7 @@
   {
    "id": 255,
    "kategorija": "istorija",
-   "pitanje": "Ko je bio prvi crnački predsednik SAD?",
+   "pitanje": "Ko je bio prvi crnački predsjednik SAD?",
    "tacan": "Barak Obama",
    "netacni": [
     "Džo Bajden",
@@ -2872,7 +2872,7 @@
   {
    "id": 261,
    "kategorija": "istorija",
-   "pitanje": "Ko je izdao srpski rečnik 1818. i reformisao jezik?",
+   "pitanje": "Ko je izdao srpski rječnik 1818. i reformisao jezik?",
    "tacan": "Vuk Stefanović Karadžić",
    "netacni": [
     "Dositej Obradović",
@@ -2949,7 +2949,7 @@
   {
    "id": 268,
    "kategorija": "istorija",
-   "pitanje": "Koji manastir je poznat po freski Beli anđeo?",
+   "pitanje": "Koji manastir je poznat po freski Bijeli anđeo?",
    "tacan": "Mileševa",
    "netacni": [
     "Studenica",
@@ -2993,7 +2993,7 @@
   {
    "id": 272,
    "kategorija": "istorija",
-   "pitanje": "Ko je osnivač grada Beograda kao prestonice Srbije 1403?",
+   "pitanje": "Ko je osnivač grada Beograda kao prijestonice Srbije 1403?",
    "tacan": "Despot Stefan Lazarević",
    "netacni": [
     "Knez Lazar",
@@ -3108,7 +3108,7 @@
    "netacni": [
     "Vidovdan",
     "Sveti Sava",
-    "Dan pobede"
+    "Dan pobjede"
    ]
   },
   {
@@ -3235,7 +3235,7 @@
   {
    "id": 294,
    "kategorija": "istorija",
-   "pitanje": "Koje carstvo je osvojilo Srbiju, Bosnu i Bugarsku u 14–15. veku?",
+   "pitanje": "Koje carstvo je osvojilo Srbiju, Bosnu i Bugarsku u 14–15. vijeku?",
    "tacan": "Osmansko carstvo",
    "netacni": [
     "Rimsko carstvo",
@@ -3246,7 +3246,7 @@
   {
    "id": 295,
    "kategorija": "istorija",
-   "pitanje": "Koje carstvo je nasledilo Zapadno rimsko carstvo posle 476.?",
+   "pitanje": "Koje carstvo je naslijedilo Zapadno rimsko carstvo poslije 476.?",
    "tacan": "Franačko carstvo",
    "netacni": [
     "Vizantijsko carstvo",
@@ -3268,7 +3268,7 @@
   {
    "id": 297,
    "kategorija": "istorija",
-   "pitanje": "Koji je vikinški istraživač stigao u Severnu Ameriku oko 1000. godine?",
+   "pitanje": "Koji je vikinški istraživač stigao u Sjevernu Ameriku oko 1000. godine?",
    "tacan": "Leif Erikson",
    "netacni": [
     "Ragnar Lotbrok",
@@ -3279,7 +3279,7 @@
   {
    "id": 298,
    "kategorija": "istorija",
-   "pitanje": "Koja bolest je u 14. veku ubila trećinu Evrope?",
+   "pitanje": "Koja bolest je u 14. vijeku ubila trećinu Evrope?",
    "tacan": "Kuga (Crna smrt)",
    "netacni": [
     "Kolera",
@@ -3301,7 +3301,7 @@
   {
    "id": 300,
    "kategorija": "istorija",
-   "pitanje": "Ko je izumeo štampariju sa pokretnim slovima u Evropi?",
+   "pitanje": "Ko je izumio štampariju sa pokretnim slovima u Evropi?",
    "tacan": "Johan Gutenberg",
    "netacni": [
     "Leonardo da Vinči",
@@ -3345,10 +3345,10 @@
   {
    "id": 304,
    "kategorija": "istorija",
-   "pitanje": "Koji događaj je obeležio 1929. godinu?",
+   "pitanje": "Koji događaj je obilježio 1929. godinu?",
    "tacan": "Velika ekonomska kriza",
    "netacni": [
-    "Kraj Prvog svetskog rata",
+    "Kraj Prvog svjetskog rata",
     "Početak Hladnog rata",
     "Pad Berlinskog zida"
    ]
@@ -3378,7 +3378,7 @@
   {
    "id": 307,
    "kategorija": "sport",
-   "pitanje": "Koliko traje regularno vreme fudbalske utakmice?",
+   "pitanje": "Koliko traje regularno vrijeme fudbalske utakmice?",
    "tacan": "90 minuta",
    "netacni": [
     "80 minuta",
@@ -3389,7 +3389,7 @@
   {
    "id": 308,
    "kategorija": "sport",
-   "pitanje": "Koja država je osvojila Svetsko prvenstvo u fudbalu 2022?",
+   "pitanje": "Koja država je osvojila Svjetsko prvenstvo u fudbalu 2022?",
    "tacan": "Argentina",
    "netacni": [
     "Francuska",
@@ -3400,7 +3400,7 @@
   {
    "id": 309,
    "kategorija": "sport",
-   "pitanje": "Koja država je osvojila Svetsko prvenstvo u fudbalu 2018?",
+   "pitanje": "Koja država je osvojila Svjetsko prvenstvo u fudbalu 2018?",
    "tacan": "Francuska",
    "netacni": [
     "Hrvatska",
@@ -3411,7 +3411,7 @@
   {
    "id": 310,
    "kategorija": "sport",
-   "pitanje": "Koja država je osvojila Svetsko prvenstvo u fudbalu 2014?",
+   "pitanje": "Koja država je osvojila Svjetsko prvenstvo u fudbalu 2014?",
    "tacan": "Nemačka",
    "netacni": [
     "Argentina",
@@ -3422,7 +3422,7 @@
   {
    "id": 311,
    "kategorija": "sport",
-   "pitanje": "Koja država je osvojila Svetsko prvenstvo u fudbalu 2010?",
+   "pitanje": "Koja država je osvojila Svjetsko prvenstvo u fudbalu 2010?",
    "tacan": "Španija",
    "netacni": [
     "Holandija",
@@ -3433,7 +3433,7 @@
   {
    "id": 312,
    "kategorija": "sport",
-   "pitanje": "Koja država je osvojila najviše Svetskih prvenstava u fudbalu?",
+   "pitanje": "Koja država je osvojila najviše Svjetskih prvenstava u fudbalu?",
    "tacan": "Brazil",
    "netacni": [
     "Nemačka",
@@ -3444,7 +3444,7 @@
   {
    "id": 313,
    "kategorija": "sport",
-   "pitanje": "Koliko puta je Brazil osvojio Svetsko prvenstvo u fudbalu?",
+   "pitanje": "Koliko puta je Brazil osvojio Svjetsko prvenstvo u fudbalu?",
    "tacan": "5",
    "netacni": [
     "4",
@@ -3455,7 +3455,7 @@
   {
    "id": 314,
    "kategorija": "sport",
-   "pitanje": "Gde je održano prvo Svetsko prvenstvo u fudbalu 1930?",
+   "pitanje": "Gdje je održano prvo Svjetsko prvenstvo u fudbalu 1930?",
    "tacan": "Urugvaj",
    "netacni": [
     "Brazil",
@@ -3466,7 +3466,7 @@
   {
    "id": 315,
    "kategorija": "sport",
-   "pitanje": "Koja država je domaćin Svetskog prvenstva 2026?",
+   "pitanje": "Koja država je domaćin Svjetskog prvenstva 2026?",
    "tacan": "SAD, Kanada i Meksiko",
    "netacni": [
     "Katar",
@@ -3477,7 +3477,7 @@
   {
    "id": 316,
    "kategorija": "sport",
-   "pitanje": "Koja država je bila domaćin Svetskog prvenstva 2022?",
+   "pitanje": "Koja država je bila domaćin Svjetskog prvenstva 2022?",
    "tacan": "Katar",
    "netacni": [
     "Rusija",
@@ -3499,7 +3499,7 @@
   {
    "id": 318,
    "kategorija": "sport",
-   "pitanje": "Ko je najbolji strelac u istoriji Svetskih prvenstava?",
+   "pitanje": "Ko je najbolji strijelac u istoriji Svjetskih prvenstava?",
    "tacan": "Miroslav Klose",
    "netacni": [
     "Pele",
@@ -3521,7 +3521,7 @@
   {
    "id": 320,
    "kategorija": "sport",
-   "pitanje": "Za koji klub je igrao Kristijano Ronaldo pre Reala?",
+   "pitanje": "Za koji klub je igrao Kristijano Ronaldo prije Reala?",
    "tacan": "Mančester junajted",
    "netacni": [
     "Juventus",
@@ -3697,7 +3697,7 @@
   {
    "id": 336,
    "kategorija": "sport",
-   "pitanje": "Koja srpska teniserka je bila prva na svetu 2008?",
+   "pitanje": "Koja srpska teniserka je bila prva na svijetu 2008?",
    "tacan": "Ana Ivanović",
    "netacni": [
     "Jelena Janković",
@@ -3708,7 +3708,7 @@
   {
    "id": 337,
    "kategorija": "sport",
-   "pitanje": "Koja bivša prva teniserka sveta je rođena u Novom Sadu?",
+   "pitanje": "Koja bivša prva teniserka svijeta je rođena u Novom Sadu?",
    "tacan": "Monika Seleš",
    "netacni": [
     "Ana Ivanović",
@@ -3730,7 +3730,7 @@
   {
    "id": 339,
    "kategorija": "sport",
-   "pitanje": "Gde su održane Olimpijske igre 2024?",
+   "pitanje": "Gdje su održane Olimpijske igre 2024?",
    "tacan": "Pariz",
    "netacni": [
     "Tokio",
@@ -3741,7 +3741,7 @@
   {
    "id": 340,
    "kategorija": "sport",
-   "pitanje": "Gde će biti održane Olimpijske igre 2028?",
+   "pitanje": "Gdje će biti održane Olimpijske igre 2028?",
    "tacan": "Los Anđeles",
    "netacni": [
     "Brizbejn",
@@ -3752,7 +3752,7 @@
   {
    "id": 341,
    "kategorija": "sport",
-   "pitanje": "Gde su održane Olimpijske igre 2016?",
+   "pitanje": "Gdje su održane Olimpijske igre 2016?",
    "tacan": "Rio de Žaneiro",
    "netacni": [
     "London",
@@ -3763,7 +3763,7 @@
   {
    "id": 342,
    "kategorija": "sport",
-   "pitanje": "Gde su održane Olimpijske igre 2012?",
+   "pitanje": "Gdje su održane Olimpijske igre 2012?",
    "tacan": "London",
    "netacni": [
     "Peking",
@@ -3774,7 +3774,7 @@
   {
    "id": 343,
    "kategorija": "sport",
-   "pitanje": "Gde su održane Olimpijske igre 2008?",
+   "pitanje": "Gdje su održane Olimpijske igre 2008?",
    "tacan": "Peking",
    "netacni": [
     "Atina",
@@ -3785,7 +3785,7 @@
   {
    "id": 344,
    "kategorija": "sport",
-   "pitanje": "Gde su održane Zimske olimpijske igre 1984?",
+   "pitanje": "Gdje su održane Zimske olimpijske igre 1984?",
    "tacan": "Sarajevo",
    "netacni": [
     "Kalgari",
@@ -3840,7 +3840,7 @@
   {
    "id": 349,
    "kategorija": "sport",
-   "pitanje": "Koliko poena vredi šut iza linije za tri poena?",
+   "pitanje": "Koliko poena vrijedi šut iza linije za tri poena?",
    "tacan": "3",
    "netacni": [
     "2",
@@ -3950,7 +3950,7 @@
   {
    "id": 359,
    "kategorija": "sport",
-   "pitanje": "Koja država je pobedila na Evropskom prvenstvu u fudbalu 2024?",
+   "pitanje": "Koja država je pobijedila na Evropskom prvenstvu u fudbalu 2024?",
    "tacan": "Španija",
    "netacni": [
     "Engleska",
@@ -3961,7 +3961,7 @@
   {
    "id": 360,
    "kategorija": "sport",
-   "pitanje": "Koja država je pobedila na Evropskom prvenstvu u fudbalu 2020?",
+   "pitanje": "Koja država je pobijedila na Evropskom prvenstvu u fudbalu 2020?",
    "tacan": "Italija",
    "netacni": [
     "Engleska",
@@ -3972,7 +3972,7 @@
   {
    "id": 361,
    "kategorija": "sport",
-   "pitanje": "Koja država je pobedila Evropsko prvenstvo u fudbalu 2016?",
+   "pitanje": "Koja država je pobijedila Evropsko prvenstvo u fudbalu 2016?",
    "tacan": "Portugal",
    "netacni": [
     "Francuska",
@@ -3983,7 +3983,7 @@
   {
    "id": 362,
    "kategorija": "sport",
-   "pitanje": "Ko je pobedio na Evropskom prvenstvu 1992 kao iznenađenje?",
+   "pitanje": "Ko je pobijedio na Evropskom prvenstvu 1992 kao iznenađenje?",
    "tacan": "Danska",
    "netacni": [
     "Nemačka",
@@ -4291,7 +4291,7 @@
   {
    "id": 390,
    "kategorija": "sport",
-   "pitanje": "Koja ženska odbojkaška reprezentacija Srbije je osvojila Svetsko prvenstvo 2018?",
+   "pitanje": "Koja ženska odbojkaška reprezentacija Srbije je osvojila Svjetsko prvenstvo 2018?",
    "tacan": "Srbija",
    "netacni": [
     "Italija",
@@ -4302,7 +4302,7 @@
   {
    "id": 391,
    "kategorija": "sport",
-   "pitanje": "Ko je srpska odbojkašica proglašena za najbolju igračicu sveta, Tijana Bošković?",
+   "pitanje": "Ko je srpska odbojkašica proglašena za najbolju igračicu svijeta, Tijana Bošković?",
    "tacan": "Tijana Bošković",
    "netacni": [
     "Jovana Brakočević",
@@ -4313,7 +4313,7 @@
   {
    "id": 392,
    "kategorija": "sport",
-   "pitanje": "Ko je osvojio svetsko zlato u skoku uvis 1993, Dragutin Topić?",
+   "pitanje": "Ko je osvojio svjetsko zlato u skoku uvis 1993, Dragutin Topić?",
    "tacan": "Dragutin Topić",
    "netacni": [
     "Jan Železni",
@@ -4368,7 +4368,7 @@
   {
    "id": 397,
    "kategorija": "sport",
-   "pitanje": "Ko je pobedio Muhameda Alija u Borbi veka 1971?",
+   "pitanje": "Ko je pobijedio Muhameda Alija u Borbi vijeka 1971?",
    "tacan": "Džo Frejzer",
    "netacni": [
     "Džordž Foreman",
@@ -4380,9 +4380,9 @@
    "id": 398,
    "kategorija": "sport",
    "pitanje": "Koja je boja pojasa najvišeg ranga u džudou?",
-   "tacan": "Crna (viši dan crveno-beli)",
+   "tacan": "Crna (viši dan crveno-bijeli)",
    "netacni": [
-    "Bela",
+    "Bijela",
     "Zelena",
     "Plava"
    ]
@@ -4401,7 +4401,7 @@
   {
    "id": 400,
    "kategorija": "sport",
-   "pitanje": "Ko je sedmostruki svetski šampion Formule 1 sa Mihaelom Šumaherom?",
+   "pitanje": "Ko je sedmostruki svjetski šampion Formule 1 sa Mihaelom Šumaherom?",
    "tacan": "Luis Hamilton",
    "netacni": [
     "Sebastijan Fetel",
@@ -4423,7 +4423,7 @@
   {
    "id": 402,
    "kategorija": "sport",
-   "pitanje": "Koliko titula svetskog prvaka u Formuli 1 ima Mihael Šumaher?",
+   "pitanje": "Koliko titula svjetskog prvaka u Formuli 1 ima Mihael Šumaher?",
    "tacan": "7",
    "netacni": [
     "5",
@@ -4434,7 +4434,7 @@
   {
    "id": 403,
    "kategorija": "sport",
-   "pitanje": "Koja ekipa je Šumaher vozio najuspešnije u Formuli 1?",
+   "pitanje": "Koja ekipa je Šumaher vozio najuspješnije u Formuli 1?",
    "tacan": "Ferari",
    "netacni": [
     "Mercedes",
@@ -4500,7 +4500,7 @@
   {
    "id": 409,
    "kategorija": "sport",
-   "pitanje": "Koliko iznosi svetski rekord Juzejna Bolta na 100 m?",
+   "pitanje": "Koliko iznosi svjetski rekord Juzejna Bolta na 100 m?",
    "tacan": "9,58 s",
    "netacni": [
     "9,69 s",
@@ -4544,7 +4544,7 @@
   {
    "id": 413,
    "kategorija": "sport",
-   "pitanje": "Ko je pobedio na Rolan Garosu 2023?",
+   "pitanje": "Ko je pobijedio na Rolan Garosu 2023?",
    "tacan": "Novak Đoković",
    "netacni": [
     "Rafael Nadal",
@@ -4566,7 +4566,7 @@
   {
    "id": 415,
    "kategorija": "sport",
-   "pitanje": "Ko je pobedio na Vimbldonu 2024?",
+   "pitanje": "Ko je pobijedio na Vimbldonu 2024?",
    "tacan": "Karlos Alkaras",
    "netacni": [
     "Novak Đoković",
@@ -4588,7 +4588,7 @@
   {
    "id": 417,
    "kategorija": "sport",
-   "pitanje": "Ko je legendarni šahovski prvak sveta iz Norveške?",
+   "pitanje": "Ko je legendarni šahovski prvak svijeta iz Norveške?",
    "tacan": "Magnus Karlsen",
    "netacni": [
     "Garri Kasparov",
@@ -4599,7 +4599,7 @@
   {
    "id": 418,
    "kategorija": "sport",
-   "pitanje": "Ko je šahista koji je pobedio računar Deep Blue 1996. i izgubio 1997?",
+   "pitanje": "Ko je šahista koji je pobijedio računar Deep Blue 1996. i izgubio 1997?",
    "tacan": "Garri Kasparov",
    "netacni": [
     "Bobi Fišer",
@@ -4610,7 +4610,7 @@
   {
    "id": 419,
    "kategorija": "sport",
-   "pitanje": "Koji srpski šahista je igrao u meču stoleća 1970?",
+   "pitanje": "Koji srpski šahista je igrao u meču stoljeća 1970?",
    "tacan": "Svetozar Gligorić",
    "netacni": [
     "Borislav Ivkov",
@@ -4665,7 +4665,7 @@
   {
    "id": 424,
    "kategorija": "sport",
-   "pitanje": "Koje godine je Srbija igrala na Svetskom prvenstvu u fudbalu kao samostalna zemlja prvi put?",
+   "pitanje": "Koje godine je Srbija igrala na Svjetskom prvenstvu u fudbalu kao samostalna zemlja prvi put?",
    "tacan": "2010",
    "netacni": [
     "2006",
@@ -4841,7 +4841,7 @@
   {
    "id": 440,
    "kategorija": "sport",
-   "pitanje": "Koji fudbaler je osvojio Svetsko prvenstvo kao igrač i kao trener, Franc Bekenbauer?",
+   "pitanje": "Koji fudbaler je osvojio Svjetsko prvenstvo kao igrač i kao trener, Franc Bekenbauer?",
    "tacan": "Franc Bekenbauer",
    "netacni": [
     "Johan Krojf",
@@ -4907,7 +4907,7 @@
   {
    "id": 446,
    "kategorija": "sport",
-   "pitanje": "Koje boje je prva pozicija na pobedničkom postolju?",
+   "pitanje": "Koje boje je prva pozicija na pobjedničkom postolju?",
    "tacan": "Zlatna",
    "netacni": [
     "Srebrna",
@@ -4940,7 +4940,7 @@
   {
    "id": 449,
    "kategorija": "muzika",
-   "pitanje": "Ko je pevač grupe Queen?",
+   "pitanje": "Ko je pjevač grupe Queen?",
    "tacan": "Fredi Merkjuri",
    "netacni": [
     "Mik Džeger",
@@ -4951,7 +4951,7 @@
   {
    "id": 450,
    "kategorija": "muzika",
-   "pitanje": "Ko je pevač grupe Rolling Stones?",
+   "pitanje": "Ko je pjevač grupe Rolling Stones?",
    "tacan": "Mik Džeger",
    "netacni": [
     "Fredi Merkjuri",
@@ -4962,7 +4962,7 @@
   {
    "id": 451,
    "kategorija": "muzika",
-   "pitanje": "Ko je pevač grupe U2?",
+   "pitanje": "Ko je pjevač grupe U2?",
    "tacan": "Bono",
    "netacni": [
     "Stinga",
@@ -4973,7 +4973,7 @@
   {
    "id": 452,
    "kategorija": "muzika",
-   "pitanje": "Ko je pevač grupe Coldplay?",
+   "pitanje": "Ko je pjevač grupe Coldplay?",
    "tacan": "Kris Martin",
    "netacni": [
     "Bono",
@@ -4984,7 +4984,7 @@
   {
    "id": 453,
    "kategorija": "muzika",
-   "pitanje": "Koja grupa je napisala pesmu \"Hey Jude\"?",
+   "pitanje": "Koja grupa je napisala pjesmu \"Hey Jude\"?",
    "tacan": "The Beatles",
    "netacni": [
     "The Rolling Stones",
@@ -4995,7 +4995,7 @@
   {
    "id": 454,
    "kategorija": "muzika",
-   "pitanje": "Koja grupa je napisala pesmu \"Bohemian Rhapsody\"?",
+   "pitanje": "Koja grupa je napisala pjesmu \"Bohemian Rhapsody\"?",
    "tacan": "Queen",
    "netacni": [
     "The Beatles",
@@ -5006,7 +5006,7 @@
   {
    "id": 455,
    "kategorija": "muzika",
-   "pitanje": "Koja grupa je napisala pesmu \"Stairway to Heaven\"?",
+   "pitanje": "Koja grupa je napisala pjesmu \"Stairway to Heaven\"?",
    "tacan": "Led Zeppelin",
    "netacni": [
     "Deep Purple",
@@ -5028,7 +5028,7 @@
   {
    "id": 457,
    "kategorija": "muzika",
-   "pitanje": "Koja grupa je napisala pesmu \"Smoke on the Water\"?",
+   "pitanje": "Koja grupa je napisala pjesmu \"Smoke on the Water\"?",
    "tacan": "Deep Purple",
    "netacni": [
     "Led Zeppelin",
@@ -5039,7 +5039,7 @@
   {
    "id": 458,
    "kategorija": "muzika",
-   "pitanje": "Koja grupa je napisala pesmu \"Hotel California\"?",
+   "pitanje": "Koja grupa je napisala pjesmu \"Hotel California\"?",
    "tacan": "Eagles",
    "netacni": [
     "Fleetwood Mac",
@@ -5050,7 +5050,7 @@
   {
    "id": 459,
    "kategorija": "muzika",
-   "pitanje": "Koja grupa je napisala pesmu \"Wonderwall\"?",
+   "pitanje": "Koja grupa je napisala pjesmu \"Wonderwall\"?",
    "tacan": "Oasis",
    "netacni": [
     "Blur",
@@ -5061,7 +5061,7 @@
   {
    "id": 460,
    "kategorija": "muzika",
-   "pitanje": "Koja grupa je napisala pesmu \"Smells Like Teen Spirit\"?",
+   "pitanje": "Koja grupa je napisala pjesmu \"Smells Like Teen Spirit\"?",
    "tacan": "Nirvana",
    "netacni": [
     "Pearl Jam",
@@ -5072,7 +5072,7 @@
   {
    "id": 461,
    "kategorija": "muzika",
-   "pitanje": "Ko je pevač grupe Nirvana?",
+   "pitanje": "Ko je pjevač grupe Nirvana?",
    "tacan": "Kurt Kobejn",
    "netacni": [
     "Eddie Veder",
@@ -5083,7 +5083,7 @@
   {
    "id": 462,
    "kategorija": "muzika",
-   "pitanje": "Koja grupa je napisala pesmu \"Enter Sandman\"?",
+   "pitanje": "Koja grupa je napisala pjesmu \"Enter Sandman\"?",
    "tacan": "Metallica",
    "netacni": [
     "Megadeth",
@@ -5094,7 +5094,7 @@
   {
    "id": 463,
    "kategorija": "muzika",
-   "pitanje": "Koja grupa je napisala pesmu \"Back in Black\"?",
+   "pitanje": "Koja grupa je napisala pjesmu \"Back in Black\"?",
    "tacan": "AC/DC",
    "netacni": [
     "Kiss",
@@ -5116,7 +5116,7 @@
   {
    "id": 465,
    "kategorija": "muzika",
-   "pitanje": "Koja nemačka grupa je napisala pesmu \"Du hast\"?",
+   "pitanje": "Koja nemačka grupa je napisala pjesmu \"Du hast\"?",
    "tacan": "Rammstein",
    "netacni": [
     "Scorpions",
@@ -5149,7 +5149,7 @@
   {
    "id": 468,
    "kategorija": "muzika",
-   "pitanje": "Koji pevač je poznat po pesmi \"Billie Jean\"?",
+   "pitanje": "Koji pjevač je poznat po pjesmi \"Billie Jean\"?",
    "tacan": "Majkl Džekson",
    "netacni": [
     "Prins",
@@ -5171,7 +5171,7 @@
   {
    "id": 470,
    "kategorija": "muzika",
-   "pitanje": "Ko je izvela pesmu \"Like a Virgin\"?",
+   "pitanje": "Ko je izvela pjesmu \"Like a Virgin\"?",
    "tacan": "Madona",
    "netacni": [
     "Sindi Loper",
@@ -5182,7 +5182,7 @@
   {
    "id": 471,
    "kategorija": "muzika",
-   "pitanje": "Ko je izvela pesmu \"I Will Always Love You\" 1992?",
+   "pitanje": "Ko je izvela pjesmu \"I Will Always Love You\" 1992?",
    "tacan": "Whitney Houston",
    "netacni": [
     "Dolly Parton",
@@ -5193,7 +5193,7 @@
   {
    "id": 472,
    "kategorija": "muzika",
-   "pitanje": "Ko je izvela pesmu \"My Heart Will Go On\"?",
+   "pitanje": "Ko je izvela pjesmu \"My Heart Will Go On\"?",
    "tacan": "Selin Dion",
    "netacni": [
     "Mariah Keri",
@@ -5204,7 +5204,7 @@
   {
    "id": 473,
    "kategorija": "muzika",
-   "pitanje": "Ko je izvela pesmu \"Rolling in the Deep\"?",
+   "pitanje": "Ko je izvela pjesmu \"Rolling in the Deep\"?",
    "tacan": "Adele",
    "netacni": [
     "Rijana",
@@ -5215,7 +5215,7 @@
   {
    "id": 474,
    "kategorija": "muzika",
-   "pitanje": "Ko je izvela pesmu \"Bad Romance\"?",
+   "pitanje": "Ko je izvela pjesmu \"Bad Romance\"?",
    "tacan": "Lejdi Gaga",
    "netacni": [
     "Rijana",
@@ -5226,7 +5226,7 @@
   {
    "id": 475,
    "kategorija": "muzika",
-   "pitanje": "Ko je izvela pesmu \"Umbrella\"?",
+   "pitanje": "Ko je izvela pjesmu \"Umbrella\"?",
    "tacan": "Rijana",
    "netacni": [
     "Bijonse",
@@ -5237,7 +5237,7 @@
   {
    "id": 476,
    "kategorija": "muzika",
-   "pitanje": "Ko je izvela pesmu \"Shape of You\"?",
+   "pitanje": "Ko je izvela pjesmu \"Shape of You\"?",
    "tacan": "Ed Širan",
    "netacni": [
     "Bruno Mars",
@@ -5248,7 +5248,7 @@
   {
    "id": 477,
    "kategorija": "muzika",
-   "pitanje": "Ko je izvela pesmu \"Shake It Off\"?",
+   "pitanje": "Ko je izvela pjesmu \"Shake It Off\"?",
    "tacan": "Tejlor Svift",
    "netacni": [
     "Ariana Grande",
@@ -5259,7 +5259,7 @@
   {
    "id": 478,
    "kategorija": "muzika",
-   "pitanje": "Ko je izvela pesmu \"Hips Don't Lie\"?",
+   "pitanje": "Ko je izvela pjesmu \"Hips Don't Lie\"?",
    "tacan": "Šakira",
    "netacni": [
     "Dženifer Lopez",
@@ -5270,7 +5270,7 @@
   {
    "id": 479,
    "kategorija": "muzika",
-   "pitanje": "Ko je izvela pesmu \"Despacito\" originalno?",
+   "pitanje": "Ko je izvela pjesmu \"Despacito\" originalno?",
    "tacan": "Luis Fonsi i Daddy Yankee",
    "netacni": [
     "Enrike Iglesijas",
@@ -5281,7 +5281,7 @@
   {
    "id": 480,
    "kategorija": "muzika",
-   "pitanje": "Ko je izvela pesmu \"Gangnam Style\"?",
+   "pitanje": "Ko je izvela pjesmu \"Gangnam Style\"?",
    "tacan": "Psy",
    "netacni": [
     "BTS",
@@ -5303,7 +5303,7 @@
   {
    "id": 482,
    "kategorija": "muzika",
-   "pitanje": "Ko je izvela pesmu \"Blinding Lights\"?",
+   "pitanje": "Ko je izvela pjesmu \"Blinding Lights\"?",
    "tacan": "The Weeknd",
    "netacni": [
     "Drake",
@@ -5336,7 +5336,7 @@
   {
    "id": 485,
    "kategorija": "muzika",
-   "pitanje": "Koja švedska grupa je izvela pesmu \"The Final Countdown\"?",
+   "pitanje": "Koja švedska grupa je izvela pjesmu \"The Final Countdown\"?",
    "tacan": "Europe",
    "netacni": [
     "ABBA",
@@ -5523,7 +5523,7 @@
   {
    "id": 502,
    "kategorija": "muzika",
-   "pitanje": "Ko je pevač pesme \"Ti si mi u krvi\"?",
+   "pitanje": "Ko je pjevač pjesme \"Ti si mi u krvi\"?",
    "tacan": "Zdravko Čolić",
    "netacni": [
     "Željko Joksimović",
@@ -5534,7 +5534,7 @@
   {
    "id": 503,
    "kategorija": "muzika",
-   "pitanje": "Ko je pevač pesme \"Glavo luda\"?",
+   "pitanje": "Ko je pjevač pjesme \"Glavo luda\"?",
    "tacan": "Zdravko Čolić",
    "netacni": [
     "Bajaga",
@@ -5545,7 +5545,7 @@
   {
    "id": 504,
    "kategorija": "muzika",
-   "pitanje": "Ko je pevač grupe Riblja čorba?",
+   "pitanje": "Ko je pjevač grupe Riblja čorba?",
    "tacan": "Bora Đorđević",
    "netacni": [
     "Momčilo Bajagić",
@@ -5578,7 +5578,7 @@
   {
    "id": 507,
    "kategorija": "muzika",
-   "pitanje": "Ko je pevač grupe Bijelo dugme tokom većine karijere (prvi)?",
+   "pitanje": "Ko je pjevač grupe Bijelo dugme tokom većine karijere (prvi)?",
    "tacan": "Željko Bebek",
    "netacni": [
     "Mladen Vojičić Tifa",
@@ -5589,7 +5589,7 @@
   {
    "id": 508,
    "kategorija": "muzika",
-   "pitanje": "Ko je makedonski pevač poznat po pesmi \"Čija si\"?",
+   "pitanje": "Ko je makedonski pjevač poznat po pjesmi \"Čija si\"?",
    "tacan": "Toše Proeski",
    "netacni": [
     "Karolina Gočeva",
@@ -5601,7 +5601,7 @@
    "id": 509,
    "kategorija": "muzika",
    "pitanje": "Ko je Toše Proeski?",
-   "tacan": "Makedonski pevač",
+   "tacan": "Makedonski pjevač",
    "netacni": [
     "Srpski glumac",
     "Hrvatski fudbaler",
@@ -5611,7 +5611,7 @@
   {
    "id": 510,
    "kategorija": "muzika",
-   "pitanje": "Ko je pobedio na Evroviziji 2007 za Srbiju?",
+   "pitanje": "Ko je pobijedio na Evroviziji 2007 za Srbiju?",
    "tacan": "Marija Šerifović",
    "netacni": [
     "Željko Joksimović",
@@ -5622,7 +5622,7 @@
   {
    "id": 511,
    "kategorija": "muzika",
-   "pitanje": "Koju pesmu je izvela Marija Šerifović na Evroviziji 2007?",
+   "pitanje": "Koju pjesmu je izvela Marija Šerifović na Evroviziji 2007?",
    "tacan": "Molitva",
    "netacni": [
     "Lane moje",
@@ -5633,7 +5633,7 @@
   {
    "id": 512,
    "kategorija": "muzika",
-   "pitanje": "Gde je održana Evrovizija 2008?",
+   "pitanje": "Gdje je održana Evrovizija 2008?",
    "tacan": "Beograd",
    "netacni": [
     "Moskva",
@@ -5644,7 +5644,7 @@
   {
    "id": 513,
    "kategorija": "muzika",
-   "pitanje": "Koju pesmu je izvela Konstrakta na Evroviziji 2022?",
+   "pitanje": "Koju pjesmu je izvela Konstrakta na Evroviziji 2022?",
    "tacan": "In corpore sano",
    "netacni": [
     "Molitva",
@@ -5655,7 +5655,7 @@
   {
    "id": 514,
    "kategorija": "muzika",
-   "pitanje": "Koju pesmu je izvela Hurricane na Evroviziji 2021?",
+   "pitanje": "Koju pjesmu je izvela Hurricane na Evroviziji 2021?",
    "tacan": "Loco Loco",
    "netacni": [
     "Molitva",
@@ -5666,7 +5666,7 @@
   {
    "id": 515,
    "kategorija": "muzika",
-   "pitanje": "Koju pesmu je izveo Željko Joksimović na Evroviziji 2004?",
+   "pitanje": "Koju pjesmu je izveo Željko Joksimović na Evroviziji 2004?",
    "tacan": "Lane moje",
    "netacni": [
     "Molitva",
@@ -5677,7 +5677,7 @@
   {
    "id": 516,
    "kategorija": "muzika",
-   "pitanje": "Na kom mestu je Željko Joksimović završio Evroviziju 2004?",
+   "pitanje": "Na kom mjestu je Željko Joksimović završio Evroviziju 2004?",
    "tacan": "Drugo",
    "netacni": [
     "Prvo",
@@ -5688,7 +5688,7 @@
   {
    "id": 517,
    "kategorija": "muzika",
-   "pitanje": "Ko je pobedio Evroviziju 2024?",
+   "pitanje": "Ko je pobijedio Evroviziju 2024?",
    "tacan": "Nemo (Švajcarska)",
    "netacni": [
     "Baby Lasagna",
@@ -5699,7 +5699,7 @@
   {
    "id": 518,
    "kategorija": "muzika",
-   "pitanje": "Koja država je pobedila Evroviziju 2022?",
+   "pitanje": "Koja država je pobijedila Evroviziju 2022?",
    "tacan": "Ukrajina",
    "netacni": [
     "Italija",
@@ -5710,7 +5710,7 @@
   {
    "id": 519,
    "kategorija": "muzika",
-   "pitanje": "Koja grupa je pobedila Evroviziju 2021 pesmom \"Zitti e buoni\"?",
+   "pitanje": "Koja grupa je pobijedila Evroviziju 2021 pjesmom \"Zitti e buoni\"?",
    "tacan": "Måneskin (Italija)",
    "netacni": [
     "Hurricane",
@@ -5721,7 +5721,7 @@
   {
    "id": 520,
    "kategorija": "muzika",
-   "pitanje": "Ko je pobedio Evroviziju 2023?",
+   "pitanje": "Ko je pobijedio Evroviziju 2023?",
    "tacan": "Loreen (Švedska)",
    "netacni": [
     "Finska",
@@ -5743,7 +5743,7 @@
   {
    "id": 522,
    "kategorija": "muzika",
-   "pitanje": "Ko je pevačica poznata kao Ceca?",
+   "pitanje": "Ko je pjevačica poznata kao Ceca?",
    "tacan": "Svetlana Ražnatović",
    "netacni": [
     "Dragana Mirković",
@@ -5754,8 +5754,8 @@
   {
    "id": 523,
    "kategorija": "muzika",
-   "pitanje": "Ko je pevač hita \"Lepi Mile\"?",
-   "tacan": "Narodna pesma",
+   "pitanje": "Ko je pjevač hita \"Lepi Mile\"?",
+   "tacan": "Narodna pjesma",
    "netacni": [
     "Zdravko Čolić",
     "Halid Bešlić",
@@ -5765,7 +5765,7 @@
   {
    "id": 524,
    "kategorija": "muzika",
-   "pitanje": "Koja grupa je izvela pesmu \"Kad hodaš\"?",
+   "pitanje": "Koja grupa je izvela pjesmu \"Kad hodaš\"?",
    "tacan": "Bajaga i Instruktori",
    "netacni": [
     "Riblja čorba",
@@ -5787,7 +5787,7 @@
   {
    "id": 526,
    "kategorija": "muzika",
-   "pitanje": "Ko je hrvatski pevač pesme \"Cesarica\"?",
+   "pitanje": "Ko je hrvatski pjevač pjesme \"Cesarica\"?",
    "tacan": "Oliver Dragojević",
    "netacni": [
     "Gibonni",
@@ -5798,7 +5798,7 @@
   {
    "id": 527,
    "kategorija": "muzika",
-   "pitanje": "Ko je hrvatska grupa \"Parni valjak\" pevač?",
+   "pitanje": "Ko je hrvatska grupa \"Parni valjak\" pjevač?",
    "tacan": "Aki Rahimovski",
    "netacni": [
     "Jura Stublić",
@@ -5809,7 +5809,7 @@
   {
    "id": 528,
    "kategorija": "muzika",
-   "pitanje": "Ko je pevač grupe Azra?",
+   "pitanje": "Ko je pjevač grupe Azra?",
    "tacan": "Branimir Džoni Štulić",
    "netacni": [
     "Aki Rahimovski",
@@ -5820,7 +5820,7 @@
   {
    "id": 529,
    "kategorija": "muzika",
-   "pitanje": "Ko je pevač grupe Plavi orkestar?",
+   "pitanje": "Ko je pjevač grupe Plavi orkestar?",
    "tacan": "Saša Lošić",
    "netacni": [
     "Bora Đorđević",
@@ -5930,7 +5930,7 @@
   {
    "id": 539,
    "kategorija": "muzika",
-   "pitanje": "Ko je pevač grupe The Doors?",
+   "pitanje": "Ko je pjevač grupe The Doors?",
    "tacan": "Džim Morison",
    "netacni": [
     "Mik Džeger",
@@ -5941,7 +5941,7 @@
   {
    "id": 540,
    "kategorija": "muzika",
-   "pitanje": "Ko je pevač grupe Led Zeppelin?",
+   "pitanje": "Ko je pjevač grupe Led Zeppelin?",
    "tacan": "Robert Plant",
    "netacni": [
     "Ozi Ozborn",
@@ -5952,7 +5952,7 @@
   {
    "id": 541,
    "kategorija": "muzika",
-   "pitanje": "Ko je pevač grupe Black Sabbath?",
+   "pitanje": "Ko je pjevač grupe Black Sabbath?",
    "tacan": "Ozi Ozborn",
    "netacni": [
     "Robert Plant",
@@ -5963,7 +5963,7 @@
   {
    "id": 542,
    "kategorija": "muzika",
-   "pitanje": "Ko je pevač grupe Iron Maiden?",
+   "pitanje": "Ko je pjevač grupe Iron Maiden?",
    "tacan": "Brus Dikinson",
    "netacni": [
     "Ozi Ozborn",
@@ -5974,7 +5974,7 @@
   {
    "id": 543,
    "kategorija": "muzika",
-   "pitanje": "Ko je pevač grupe Guns N' Roses?",
+   "pitanje": "Ko je pjevač grupe Guns N' Roses?",
    "tacan": "Aksl Rouz",
    "netacni": [
     "Slesh",
@@ -5985,7 +5985,7 @@
   {
    "id": 544,
    "kategorija": "muzika",
-   "pitanje": "Ko je pevač grupe Bon Jovi?",
+   "pitanje": "Ko je pjevač grupe Bon Jovi?",
    "tacan": "Džon Bon Džovi",
    "netacni": [
     "Stiven Tajler",
@@ -5996,7 +5996,7 @@
   {
    "id": 545,
    "kategorija": "muzika",
-   "pitanje": "Ko je pevač grupe Aerosmith?",
+   "pitanje": "Ko je pjevač grupe Aerosmith?",
    "tacan": "Stiven Tajler",
    "netacni": [
     "Džon Bon Džovi",
@@ -6007,7 +6007,7 @@
   {
    "id": 546,
    "kategorija": "muzika",
-   "pitanje": "Ko je pevač grupe Metallica?",
+   "pitanje": "Ko je pjevač grupe Metallica?",
    "tacan": "Džejms Hetfild",
    "netacni": [
     "Dejv Mustejn",
@@ -6018,7 +6018,7 @@
   {
    "id": 547,
    "kategorija": "muzika",
-   "pitanje": "Ko je pevač grupe Linkin Park do 2017?",
+   "pitanje": "Ko je pjevač grupe Linkin Park do 2017?",
    "tacan": "Čester Beningtom",
    "netacni": [
     "Majk Šinoda",
@@ -6029,7 +6029,7 @@
   {
    "id": 548,
    "kategorija": "muzika",
-   "pitanje": "Ko je pevač grupe Foo Fighters?",
+   "pitanje": "Ko je pjevač grupe Foo Fighters?",
    "tacan": "Dejvid Grol",
    "netacni": [
     "Kurt Kobejn",
@@ -6040,7 +6040,7 @@
   {
    "id": 549,
    "kategorija": "muzika",
-   "pitanje": "Ko je pevač grupe Red Hot Chili Peppers?",
+   "pitanje": "Ko je pjevač grupe Red Hot Chili Peppers?",
    "tacan": "Entoni Kidis",
    "netacni": [
     "Flea",
@@ -6051,7 +6051,7 @@
   {
    "id": 550,
    "kategorija": "muzika",
-   "pitanje": "Ko je pevač grupe Radiohead?",
+   "pitanje": "Ko je pjevač grupe Radiohead?",
    "tacan": "Tom Jork",
    "netacni": [
     "Noel Galager",
@@ -6106,7 +6106,7 @@
   {
    "id": 555,
    "kategorija": "muzika",
-   "pitanje": "Ko je izvela pesmu \"Levitating\"?",
+   "pitanje": "Ko je izvela pjesmu \"Levitating\"?",
    "tacan": "Dua Lipa",
    "netacni": [
     "Ariana Grande",
@@ -6194,7 +6194,7 @@
   {
    "id": 563,
    "kategorija": "muzika",
-   "pitanje": "Koja grupa je izvela pesmu \"We Will Rock You\"?",
+   "pitanje": "Koja grupa je izvela pjesmu \"We Will Rock You\"?",
    "tacan": "Queen",
    "netacni": [
     "The Who",
@@ -6205,7 +6205,7 @@
   {
    "id": 564,
    "kategorija": "muzika",
-   "pitanje": "Koja grupa je izvela pesmu \"Yesterday\"?",
+   "pitanje": "Koja grupa je izvela pjesmu \"Yesterday\"?",
    "tacan": "The Beatles",
    "netacni": [
     "The Rolling Stones",
@@ -6216,7 +6216,7 @@
   {
    "id": 565,
    "kategorija": "muzika",
-   "pitanje": "Koja grupa je izvela pesmu \"Satisfaction\"?",
+   "pitanje": "Koja grupa je izvela pjesmu \"Satisfaction\"?",
    "tacan": "The Rolling Stones",
    "netacni": [
     "The Beatles",
@@ -6227,7 +6227,7 @@
   {
    "id": 566,
    "kategorija": "muzika",
-   "pitanje": "Koja grupa je izvela pesmu \"Thunderstruck\"?",
+   "pitanje": "Koja grupa je izvela pjesmu \"Thunderstruck\"?",
    "tacan": "AC/DC",
    "netacni": [
     "Metallica",
@@ -6238,7 +6238,7 @@
   {
    "id": 567,
    "kategorija": "muzika",
-   "pitanje": "Koja grupa je izvela pesmu \"Africa\"?",
+   "pitanje": "Koja grupa je izvela pjesmu \"Africa\"?",
    "tacan": "Toto",
    "netacni": [
     "Journey",
@@ -6249,7 +6249,7 @@
   {
    "id": 568,
    "kategorija": "muzika",
-   "pitanje": "Koja grupa je izvela pesmu \"Take On Me\"?",
+   "pitanje": "Koja grupa je izvela pjesmu \"Take On Me\"?",
    "tacan": "a-ha",
    "netacni": [
     "Duran Duran",
@@ -6260,7 +6260,7 @@
   {
    "id": 569,
    "kategorija": "muzika",
-   "pitanje": "Koja grupa je izvela pesmu \"Rasputin\"?",
+   "pitanje": "Koja grupa je izvela pjesmu \"Rasputin\"?",
    "tacan": "Boney M.",
    "netacni": [
     "ABBA",
@@ -6271,7 +6271,7 @@
   {
    "id": 570,
    "kategorija": "muzika",
-   "pitanje": "Ko je izvela pesmu \"Material Girl\"?",
+   "pitanje": "Ko je izvela pjesmu \"Material Girl\"?",
    "tacan": "Madona",
    "netacni": [
     "Sindi Loper",
@@ -6282,7 +6282,7 @@
   {
    "id": 571,
    "kategorija": "muzika",
-   "pitanje": "Ko je izvela pesmu \"Baby One More Time\"?",
+   "pitanje": "Ko je izvela pjesmu \"Baby One More Time\"?",
    "tacan": "Britni Spirs",
    "netacni": [
     "Kristina Agilera",
@@ -6293,7 +6293,7 @@
   {
    "id": 572,
    "kategorija": "muzika",
-   "pitanje": "Ko je izvela pesmu \"Single Ladies\"?",
+   "pitanje": "Ko je izvela pjesmu \"Single Ladies\"?",
    "tacan": "Bijonse",
    "netacni": [
     "Rijana",
@@ -6304,7 +6304,7 @@
   {
    "id": 573,
    "kategorija": "muzika",
-   "pitanje": "Ko je izvela pesmu \"Believe\"?",
+   "pitanje": "Ko je izvela pjesmu \"Believe\"?",
    "tacan": "Šer",
    "netacni": [
     "Madona",
@@ -6315,7 +6315,7 @@
   {
    "id": 574,
    "kategorija": "muzika",
-   "pitanje": "Ko je izvela pesmu \"Respect\"?",
+   "pitanje": "Ko je izvela pjesmu \"Respect\"?",
    "tacan": "Aretha Frenklin",
    "netacni": [
     "Dajana Ros",
@@ -6337,7 +6337,7 @@
   {
    "id": 576,
    "kategorija": "muzika",
-   "pitanje": "Ko je izvela pesmu \"Mamma Mia\" sa filma?",
+   "pitanje": "Ko je izvela pjesmu \"Mamma Mia\" sa filma?",
    "tacan": "ABBA",
    "netacni": [
     "Boney M.",
@@ -6414,7 +6414,7 @@
   {
    "id": 583,
    "kategorija": "film",
-   "pitanje": "Ko je režirao film \"Zvezdani ratovi\" iz 1977?",
+   "pitanje": "Ko je režirao film \"Zvjezdani ratovi\" iz 1977?",
    "tacan": "Džordž Lukas",
    "netacni": [
     "Stiven Spilberg",
@@ -6649,7 +6649,7 @@
    "tacan": "Titanik, Ben-Hur i Povratak kralja",
    "netacni": [
     "Kum",
-    "Ratovi zvezda",
+    "Ratovi zvijezda",
     "Avatar"
    ]
   },
@@ -6711,12 +6711,12 @@
   {
    "id": 610,
    "kategorija": "film",
-   "pitanje": "Koji film je zaradio najviše na svetu svih vremena?",
+   "pitanje": "Koji film je zaradio najviše na svijetu svih vremena?",
    "tacan": "Avatar",
    "netacni": [
     "Avengers: Endgame",
     "Titanik",
-    "Ratovi zvezda: Buđenje sile"
+    "Ratovi zvijezda: Buđenje sile"
    ]
   },
   {
@@ -6799,7 +6799,7 @@
   {
    "id": 618,
    "kategorija": "film",
-   "pitanje": "Koja crtana ledena princeza peva \"Let It Go\"?",
+   "pitanje": "Koja crtana ledena princeza pjeva \"Let It Go\"?",
    "tacan": "Elza",
    "netacni": [
     "Ana",
@@ -6965,7 +6965,7 @@
    "id": 633,
    "kategorija": "film",
    "pitanje": "Koja fantastična serija se odvija u Vesterosu?",
-   "tacan": "Igra prestola",
+   "tacan": "Igra prijestolja",
    "netacni": [
     "Vikinzi",
     "Zadivljujući",
@@ -6975,7 +6975,7 @@
   {
    "id": 634,
    "kategorija": "film",
-   "pitanje": "Ko glumi Džona Snoua u Igri prestola?",
+   "pitanje": "Ko glumi Džona Snoua u Igri prijestolja?",
    "tacan": "Kit Harington",
    "netacni": [
     "Šon Bin",
@@ -6997,7 +6997,7 @@
   {
    "id": 636,
    "kategorija": "film",
-   "pitanje": "Koja serija govori o devojčici sa telekinezom i dečacima iz Hokinsa?",
+   "pitanje": "Koja serija govori o djevojčici sa telekinezom i dječacima iz Hokinsa?",
    "tacan": "Stranger Things",
    "netacni": [
     "Dark",
@@ -7041,7 +7041,7 @@
   {
    "id": 640,
    "kategorija": "film",
-   "pitanje": "Koja jugoslovenska serija se emitovala 1970-ih o Beogradu i Trećoj smeni?",
+   "pitanje": "Koja jugoslovenska serija se emitovala 1970-ih o Beogradu i Trećoj smjeni?",
    "tacan": "Grlom u jagode",
    "netacni": [
     "Otpisani",
@@ -7063,7 +7063,7 @@
   {
    "id": 642,
    "kategorija": "film",
-   "pitanje": "Ko režira film \"Ko to tamo peva\"?",
+   "pitanje": "Ko režira film \"Ko to tamo pjeva\"?",
    "tacan": "Slobodan Šijan",
    "netacni": [
     "Emir Kusturica",
@@ -7134,7 +7134,7 @@
    "netacni": [
     "Dom za vešanje",
     "Underground",
-    "Crna mačka bela mačka"
+    "Crna mačka bijela mačka"
    ]
   },
   {
@@ -7176,7 +7176,7 @@
    "pitanje": "Koji film je Slobodan Šijan režirao 1980?",
    "tacan": "Maratonci trče počasni krug",
    "netacni": [
-    "Ko to tamo peva",
+    "Ko to tamo pjeva",
     "Davitelj protiv davitelja",
     "Strah od letenja"
    ]
@@ -7284,7 +7284,7 @@
    "id": 662,
    "kategorija": "film",
    "pitanje": "Koji lik u Alisi stalno kasni i gleda na sat?",
-   "tacan": "Beli zec",
+   "tacan": "Bijeli zec",
    "netacni": [
     "Šeširdžija",
     "Cheshire mačka",
@@ -7328,7 +7328,7 @@
    "id": 666,
    "kategorija": "film",
    "pitanje": "Koji film je poznat po rečenici \"May the Force be with you\"?",
-   "tacan": "Ratovi zvezda",
+   "tacan": "Ratovi zvijezda",
    "netacni": [
     "Matriks",
     "Terminator",
@@ -7495,7 +7495,7 @@
    "pitanje": "Koja Diznijeva princeza ima staklenu cipelicu?",
    "tacan": "Pepeljuga",
    "netacni": [
-    "Snežana",
+    "Snjeguljica",
     "Aurora",
     "Bela"
    ]
@@ -7504,7 +7504,7 @@
    "id": 682,
    "kategorija": "film",
    "pitanje": "Kojoj Diznijevoj princezi je otrovna jabuka zadala san?",
-   "tacan": "Snežana",
+   "tacan": "Snjeguljica",
    "netacni": [
     "Pepeljuga",
     "Aurora",
@@ -7518,7 +7518,7 @@
    "tacan": "Ariel",
    "netacni": [
     "Moana",
-    "Beli",
+    "Bijeli",
     "Merida"
    ]
   },
@@ -7635,7 +7635,7 @@
   {
    "id": 694,
    "kategorija": "film",
-   "pitanje": "Ko je režirao film \"Bekstvo iz Šošenka\"?",
+   "pitanje": "Ko je režirao film \"Bjekstvo iz Šošenka\"?",
    "tacan": "Frenk Darabont",
    "netacni": [
     "Stiven Spilberg",
@@ -7702,7 +7702,7 @@
    "id": 700,
    "kategorija": "film",
    "pitanje": "Koji film prati porodicu superheroja po imenu Parr?",
-   "tacan": "Neverovatni",
+   "tacan": "Nevjerovatni",
    "netacni": [
     "Betmen",
     "Fantastična četvorka",
@@ -7712,7 +7712,7 @@
   {
    "id": 701,
    "kategorija": "film",
-   "pitanje": "Koji animirani film prati lava koji beži iz njujorškog zoološkog vrta?",
+   "pitanje": "Koji animirani film prati lava koji bježi iz njujorškog zoološkog vrta?",
    "tacan": "Madagaskar",
    "netacni": [
     "Kralj lavova",
@@ -7910,7 +7910,7 @@
   {
    "id": 719,
    "kategorija": "nauka",
-   "pitanje": "Koji gas čini najveći deo Zemljine atmosfere?",
+   "pitanje": "Koji gas čini najveći dio Zemljine atmosfere?",
    "tacan": "Azot",
    "netacni": [
     "Kiseonik",
@@ -8141,7 +8141,7 @@
   {
    "id": 740,
    "kategorija": "nauka",
-   "pitanje": "Gde je rođen Nikola Tesla?",
+   "pitanje": "Gdje je rođen Nikola Tesla?",
    "tacan": "Smiljan",
    "netacni": [
     "Beograd",
@@ -8174,7 +8174,7 @@
   {
    "id": 743,
    "kategorija": "nauka",
-   "pitanje": "Ko je srpski naučnik koji je radio na Univerzitetu Kolumbija i izumeo pupinove kalemove?",
+   "pitanje": "Ko je srpski naučnik koji je radio na Univerzitetu Kolumbija i izumio pupinove kalemove?",
    "tacan": "Mihajlo Pupin",
    "netacni": [
     "Nikola Tesla",
@@ -8185,7 +8185,7 @@
   {
    "id": 744,
    "kategorija": "nauka",
-   "pitanje": "Ko je bila prva supruga Alberta Ajnštajna, poreklom iz Vojvodine?",
+   "pitanje": "Ko je bila prva supruga Alberta Ajnštajna, porijeklom iz Vojvodine?",
    "tacan": "Mileva Marić",
    "netacni": [
     "Elza Ajnštajn",
@@ -8262,7 +8262,7 @@
   {
    "id": 751,
    "kategorija": "nauka",
-   "pitanje": "Koji je najveći Jupiterov mesec?",
+   "pitanje": "Koji je najveći Jupiterov mjesec?",
    "tacan": "Ganimed",
    "netacni": [
     "Evropa",
@@ -8274,7 +8274,7 @@
    "id": 752,
    "kategorija": "nauka",
    "pitanje": "Koji je jedini prirodni satelit Zemlje?",
-   "tacan": "Mesec",
+   "tacan": "Mjesec",
    "netacni": [
     "Fobos",
     "Titan",
@@ -8307,7 +8307,7 @@
    "id": 755,
    "kategorija": "nauka",
    "pitanje": "Kako se zove naša galaksija?",
-   "tacan": "Mlečni put",
+   "tacan": "Mliječni put",
    "netacni": [
     "Andromeda",
     "Trougao",
@@ -8317,7 +8317,7 @@
   {
    "id": 756,
    "kategorija": "nauka",
-   "pitanje": "Koja je najbliža zvezda Zemlji?",
+   "pitanje": "Koja je najbliža zvijezda Zemlji?",
    "tacan": "Sunce",
    "netacni": [
     "Proksima Kentauri",
@@ -8328,7 +8328,7 @@
   {
    "id": 757,
    "kategorija": "nauka",
-   "pitanje": "Koja je najsjajnija zvezda na noćnom nebu?",
+   "pitanje": "Koja je najsjajnija zvijezda na noćnom nebu?",
    "tacan": "Sirijus",
    "netacni": [
     "Polaris",
@@ -8339,7 +8339,7 @@
   {
    "id": 758,
    "kategorija": "nauka",
-   "pitanje": "Koliko svetlosti putuje u sekundi približno?",
+   "pitanje": "Koliko svjetlosti putuje u sekundi približno?",
    "tacan": "300.000 km",
    "netacni": [
     "150.000 km",
@@ -8383,7 +8383,7 @@
   {
    "id": 762,
    "kategorija": "nauka",
-   "pitanje": "Koji astronaut je prvi hodao po Mesecu?",
+   "pitanje": "Koji astronaut je prvi hodao po Mjesecu?",
    "tacan": "Nil Armstrong",
    "netacni": [
     "Baz Oldrin",
@@ -8464,7 +8464,7 @@
    "tacan": "Džinovska panda",
    "netacni": [
     "Koala",
-    "Lenjivac",
+    "Ljenjivac",
     "Lemur"
    ]
   },
@@ -8570,7 +8570,7 @@
   {
    "id": 779,
    "kategorija": "nauka",
-   "pitanje": "Koji organ pumpa krv u ljudskom telu?",
+   "pitanje": "Koji organ pumpa krv u ljudskom tijelu?",
    "tacan": "Srce",
    "netacni": [
     "Jetra",
@@ -8581,7 +8581,7 @@
   {
    "id": 780,
    "kategorija": "nauka",
-   "pitanje": "Koliko kostiju ima odrastao čovek?",
+   "pitanje": "Koliko kostiju ima odrastao čovjek?",
    "tacan": "206",
    "netacni": [
     "256",
@@ -8592,7 +8592,7 @@
   {
    "id": 781,
    "kategorija": "nauka",
-   "pitanje": "Koji je najveći organ ljudskog tela?",
+   "pitanje": "Koji je najveći organ ljudskog tijela?",
    "tacan": "Koža",
    "netacni": [
     "Jetra",
@@ -8625,7 +8625,7 @@
   {
    "id": 784,
    "kategorija": "nauka",
-   "pitanje": "Koliko zuba ima odrastao čovek?",
+   "pitanje": "Koliko zuba ima odrastao čovjek?",
    "tacan": "32",
    "netacni": [
     "28",
@@ -8680,7 +8680,7 @@
   {
    "id": 789,
    "kategorija": "nauka",
-   "pitanje": "Koliko hromozoma ima čovek?",
+   "pitanje": "Koliko hromozoma ima čovjek?",
    "tacan": "46",
    "netacni": [
     "23",
@@ -8713,18 +8713,18 @@
   {
    "id": 792,
    "kategorija": "nauka",
-   "pitanje": "Koji deo biljke upija vodu iz zemljišta?",
+   "pitanje": "Koji dio biljke upija vodu iz zemljišta?",
    "tacan": "Koren",
    "netacni": [
     "List",
-    "Cvet",
+    "Cvijet",
     "Plod"
    ]
   },
   {
    "id": 793,
    "kategorija": "nauka",
-   "pitanje": "Koja je najveća biljka na svetu po visini?",
+   "pitanje": "Koja je najveća biljka na svijetu po visini?",
    "tacan": "Sekvoja",
    "netacni": [
     "Hrast",
@@ -8735,7 +8735,7 @@
   {
    "id": 794,
    "kategorija": "nauka",
-   "pitanje": "Koja jedinica meri električni napon?",
+   "pitanje": "Koja jedinica mjeri električni napon?",
    "tacan": "Volt",
    "netacni": [
     "Amper",
@@ -8746,7 +8746,7 @@
   {
    "id": 795,
    "kategorija": "nauka",
-   "pitanje": "Koja jedinica meri električnu struju?",
+   "pitanje": "Koja jedinica mjeri električnu struju?",
    "tacan": "Amper",
    "netacni": [
     "Volt",
@@ -8757,7 +8757,7 @@
   {
    "id": 796,
    "kategorija": "nauka",
-   "pitanje": "Koja jedinica meri električni otpor?",
+   "pitanje": "Koja jedinica mjeri električni otpor?",
    "tacan": "Om",
    "netacni": [
     "Volt",
@@ -8768,7 +8768,7 @@
   {
    "id": 797,
    "kategorija": "nauka",
-   "pitanje": "Koja jedinica meri snagu?",
+   "pitanje": "Koja jedinica mjeri snagu?",
    "tacan": "Vat",
    "netacni": [
     "Džul",
@@ -8779,7 +8779,7 @@
   {
    "id": 798,
    "kategorija": "nauka",
-   "pitanje": "Koja jedinica meri silu?",
+   "pitanje": "Koja jedinica mjeri silu?",
    "tacan": "Njutn",
    "netacni": [
     "Džul",
@@ -8790,7 +8790,7 @@
   {
    "id": 799,
    "kategorija": "nauka",
-   "pitanje": "Koja jedinica meri energiju?",
+   "pitanje": "Koja jedinica mjeri energiju?",
    "tacan": "Džul",
    "netacni": [
     "Njutn",
@@ -8801,7 +8801,7 @@
   {
    "id": 800,
    "kategorija": "nauka",
-   "pitanje": "Koja jedinica meri frekvenciju?",
+   "pitanje": "Koja jedinica mjeri frekvenciju?",
    "tacan": "Herc",
    "netacni": [
     "Vat",
@@ -8812,7 +8812,7 @@
   {
    "id": 801,
    "kategorija": "nauka",
-   "pitanje": "Koja jedinica meri pritisak?",
+   "pitanje": "Koja jedinica mjeri pritisak?",
    "tacan": "Paskal",
    "netacni": [
     "Džul",
@@ -8823,8 +8823,8 @@
   {
    "id": 802,
    "kategorija": "nauka",
-   "pitanje": "Šta je brže, svetlost ili zvuk?",
-   "tacan": "Svetlost",
+   "pitanje": "Šta je brže, svjetlost ili zvuk?",
+   "tacan": "Svjetlost",
    "netacni": [
     "Zvuk",
     "Isto",
@@ -8922,7 +8922,7 @@
   {
    "id": 811,
    "kategorija": "nauka",
-   "pitanje": "Koji gas se koristi u balonima da bi leteli?",
+   "pitanje": "Koji gas se koristi u balonima da bi letjeli?",
    "tacan": "Helijum",
    "netacni": [
     "Azot",
@@ -9058,7 +9058,7 @@
    "tacan": "Teorija o nastanku svemira",
    "netacni": [
     "Vrsta eksplozije vulkana",
-    "Zvezdana eksplozija",
+    "Zvjezdana eksplozija",
     "Sudar galaksija"
    ]
   },
@@ -9066,9 +9066,9 @@
    "id": 824,
    "kategorija": "nauka",
    "pitanje": "Šta proučava geologija?",
-   "tacan": "Zemlju i stene",
+   "tacan": "Zemlju i stijene",
    "netacni": [
-    "Zvezde",
+    "Zvijezde",
     "Životinje",
     "Biljke"
    ]
@@ -9080,8 +9080,8 @@
    "tacan": "Biljke",
    "netacni": [
     "Životinje",
-    "Stene",
-    "Zvezde"
+    "Stijene",
+    "Zvijezde"
    ]
   },
   {
@@ -9091,7 +9091,7 @@
    "tacan": "Životinje",
    "netacni": [
     "Biljke",
-    "Stene",
+    "Stijene",
     "Gljive"
    ]
   },
@@ -9099,10 +9099,10 @@
    "id": 827,
    "kategorija": "nauka",
    "pitanje": "Šta proučava astronomija?",
-   "tacan": "Nebeska tela",
+   "tacan": "Nebeska tijela",
    "netacni": [
     "Životinje",
-    "Stene",
+    "Stijene",
     "Klimu"
    ]
   },
@@ -9110,10 +9110,10 @@
    "id": 828,
    "kategorija": "nauka",
    "pitanje": "Šta proučava meteorologija?",
-   "tacan": "Vreme i klimu",
+   "tacan": "Vrijeme i klimu",
    "netacni": [
-    "Stene",
-    "Zvezde",
+    "Stijene",
+    "Zvijezde",
     "Životinje"
    ]
   },
@@ -9186,7 +9186,7 @@
   {
    "id": 835,
    "kategorija": "nauka",
-   "pitanje": "Koliko procenata ljudskog tela čini voda?",
+   "pitanje": "Koliko procenata ljudskog tijela čini voda?",
    "tacan": "Oko 60%",
    "netacni": [
     "Oko 20%",
@@ -9231,7 +9231,7 @@
    "id": 839,
    "kategorija": "nauka",
    "pitanje": "Koja krvna zrnca su zadužena za borbu protiv infekcije?",
-   "tacan": "Bela krvna zrnca",
+   "tacan": "Bijela krvna zrnca",
    "netacni": [
     "Crvena krvna zrnca",
     "Trombociti",
@@ -9274,7 +9274,7 @@
   {
    "id": 843,
    "kategorija": "nauka",
-   "pitanje": "Šta nosi nasledne informacije u ćeliji?",
+   "pitanje": "Šta nosi nasljedne informacije u ćeliji?",
    "tacan": "DNK",
    "netacni": [
     "Protein",
@@ -9285,7 +9285,7 @@
   {
    "id": 844,
    "kategorija": "nauka",
-   "pitanje": "Koje je najdublje mesto u okeanima?",
+   "pitanje": "Koje je najdublje mjesto u okeanima?",
    "tacan": "Marijanski rov",
    "netacni": [
     "Portorikanski rov",
@@ -9362,7 +9362,7 @@
   {
    "id": 851,
    "kategorija": "opste",
-   "pitanje": "Ko je napisao \"Hazarski rečnik\"?",
+   "pitanje": "Ko je napisao \"Hazarski rječnik\"?",
    "tacan": "Milorad Pavić",
    "netacni": [
     "Danilo Kiš",
@@ -9406,7 +9406,7 @@
   {
    "id": 855,
    "kategorija": "opste",
-   "pitanje": "Ko je napisao pesmu \"Santa Maria della Salute\"?",
+   "pitanje": "Ko je napisao pjesmu \"Santa Maria della Salute\"?",
    "tacan": "Laza Kostić",
    "netacni": [
     "Jovan Dučić",
@@ -9417,7 +9417,7 @@
   {
    "id": 856,
    "kategorija": "opste",
-   "pitanje": "Ko je napisao pesmu \"Ostajte ovdje\"?",
+   "pitanje": "Ko je napisao pjesmu \"Ostajte ovdje\"?",
    "tacan": "Aleksa Šantić",
    "netacni": [
     "Jovan Dučić",
@@ -9428,7 +9428,7 @@
   {
    "id": 857,
    "kategorija": "opste",
-   "pitanje": "Ko je napisao pesmu \"Utopljene duše\"?",
+   "pitanje": "Ko je napisao pjesmu \"Utopljene duše\"?",
    "tacan": "Vladislav Petković Dis",
    "netacni": [
     "Aleksa Šantić",
@@ -9615,7 +9615,7 @@
   {
    "id": 874,
    "kategorija": "opste",
-   "pitanje": "Ko je napisao \"Put oko sveta za 80 dana\"?",
+   "pitanje": "Ko je napisao \"Put oko svijeta za 80 dana\"?",
    "tacan": "Žil Vern",
    "netacni": [
     "Aleksandar Dima",
@@ -9637,7 +9637,7 @@
   {
    "id": 876,
    "kategorija": "opste",
-   "pitanje": "Ko je naslikao \"Poslednju večeru\"?",
+   "pitanje": "Ko je naslikao \"Posljednju večeru\"?",
    "tacan": "Leonardo da Vinči",
    "netacni": [
     "Mikelanđelo",
@@ -9659,7 +9659,7 @@
   {
    "id": 878,
    "kategorija": "opste",
-   "pitanje": "Ko je naslikao \"Zvezdanu noć\"?",
+   "pitanje": "Ko je naslikao \"Zvjezdanu noć\"?",
    "tacan": "Vinsent van Gog",
    "netacni": [
     "Pol Gogen",
@@ -9692,7 +9692,7 @@
   {
    "id": 881,
    "kategorija": "opste",
-   "pitanje": "Ko je naslikao \"Postojanost sećanja\" sa otopljenim satovima?",
+   "pitanje": "Ko je naslikao \"Postojanost sjećanja\" sa otopljenim satovima?",
    "tacan": "Salvador Dali",
    "netacni": [
     "Pablo Pikaso",
@@ -9725,7 +9725,7 @@
   {
    "id": 884,
    "kategorija": "opste",
-   "pitanje": "Ko je naslikao \"Devojku sa bisernom minđušom\"?",
+   "pitanje": "Ko je naslikao \"Djevojku sa bisernom minđušom\"?",
    "tacan": "Johanes Vermer",
    "netacni": [
     "Rembrant",
@@ -9747,7 +9747,7 @@
   {
    "id": 886,
    "kategorija": "opste",
-   "pitanje": "Ko je naslikao \"Kosovku devojku\"?",
+   "pitanje": "Ko je naslikao \"Kosovku djevojku\"?",
    "tacan": "Uroš Predić",
    "netacni": [
     "Paja Jovanović",
@@ -9780,7 +9780,7 @@
   {
    "id": 889,
    "kategorija": "opste",
-   "pitanje": "Ko je srpski vajar autor spomenika Pobednik na Kalemegdanu?",
+   "pitanje": "Ko je srpski vajar autor spomenika Pobjednik na Kalemegdanu?",
    "tacan": "Ivan Meštrović",
    "netacni": [
     "Toma Rosandić",
@@ -9814,7 +9814,7 @@
    "id": 892,
    "kategorija": "opste",
    "pitanje": "Od čega se pravi sarma?",
-   "tacan": "Kiselog kupusa i mlevenog mesa",
+   "tacan": "Kiselog kupusa i mljevenog mesa",
    "netacni": [
     "Krompira",
     "Testa",
@@ -9824,7 +9824,7 @@
   {
    "id": 893,
    "kategorija": "opste",
-   "pitanje": "Koji sir se pravi u Grčkoj od ovčijeg mleka?",
+   "pitanje": "Koji sir se pravi u Grčkoj od ovčijeg mlijeka?",
    "tacan": "Feta",
    "netacni": [
     "Parmezan",
@@ -9956,7 +9956,7 @@
   {
    "id": 905,
    "kategorija": "opste",
-   "pitanje": "Koji začin je najskuplji na svetu?",
+   "pitanje": "Koji začin je najskuplji na svijetu?",
    "tacan": "Šafran",
    "netacni": [
     "Biber",
@@ -10044,7 +10044,7 @@
   {
    "id": 913,
    "kategorija": "opste",
-   "pitanje": "Koliko dana ima prestupna godina?",
+   "pitanje": "Koliko dana ima prijestupna godina?",
    "tacan": "366",
    "netacni": [
     "365",
@@ -10055,7 +10055,7 @@
   {
    "id": 914,
    "kategorija": "opste",
-   "pitanje": "Koliko meseci ima 31 dan?",
+   "pitanje": "Koliko mjeseci ima 31 dan?",
    "tacan": "7",
    "netacni": [
     "6",
@@ -10066,7 +10066,7 @@
   {
    "id": 915,
    "kategorija": "opste",
-   "pitanje": "Koji mesec ima 28 dana u običnoj godini?",
+   "pitanje": "Koji mjesec ima 28 dana u običnoj godini?",
    "tacan": "Februar",
    "netacni": [
     "Januar",
@@ -10077,7 +10077,7 @@
   {
    "id": 916,
    "kategorija": "opste",
-   "pitanje": "Koji je prvi mesec u godini?",
+   "pitanje": "Koji je prvi mjesec u godini?",
    "tacan": "Januar",
    "netacni": [
     "Februar",
@@ -10088,18 +10088,18 @@
   {
    "id": 917,
    "kategorija": "opste",
-   "pitanje": "Koji je dan posle ponedeljka?",
+   "pitanje": "Koji je dan poslije ponedjeljka?",
    "tacan": "Utorak",
    "netacni": [
-    "Sreda",
-    "Nedelja",
+    "Srijeda",
+    "Nedjelja",
     "Četvrtak"
    ]
   },
   {
    "id": 918,
    "kategorija": "opste",
-   "pitanje": "Koja boja nastaje mešanjem plave i žute?",
+   "pitanje": "Koja boja nastaje miješanjem plave i žute?",
    "tacan": "Zelena",
    "netacni": [
     "Narandžasta",
@@ -10110,7 +10110,7 @@
   {
    "id": 919,
    "kategorija": "opste",
-   "pitanje": "Koja boja nastaje mešanjem crvene i plave?",
+   "pitanje": "Koja boja nastaje miješanjem crvene i plave?",
    "tacan": "Ljubičasta",
    "netacni": [
     "Zelena",
@@ -10121,7 +10121,7 @@
   {
    "id": 920,
    "kategorija": "opste",
-   "pitanje": "Koja boja nastaje mešanjem crvene i žute?",
+   "pitanje": "Koja boja nastaje miješanjem crvene i žute?",
    "tacan": "Narandžasta",
    "netacni": [
     "Zelena",
@@ -10133,22 +10133,22 @@
    "id": 921,
    "kategorija": "opste",
    "pitanje": "Koje boje je srpska zastava (odozgo na dole)?",
-   "tacan": "Crvena, plava, bela",
+   "tacan": "Crvena, plava, bijela",
    "netacni": [
-    "Plava, bela, crvena",
-    "Bela, plava, crvena",
-    "Crvena, bela, plava"
+    "Plava, bijela, crvena",
+    "Bijela, plava, crvena",
+    "Crvena, bijela, plava"
    ]
   },
   {
    "id": 922,
    "kategorija": "opste",
    "pitanje": "Koje boje je hrvatska zastava (odozgo na dole)?",
-   "tacan": "Crvena, bela, plava",
+   "tacan": "Crvena, bijela, plava",
    "netacni": [
-    "Plava, bela, crvena",
-    "Crvena, plava, bela",
-    "Bela, crvena, plava"
+    "Plava, bijela, crvena",
+    "Crvena, plava, bijela",
+    "Bijela, crvena, plava"
    ]
   },
   {
@@ -10158,36 +10158,36 @@
    "tacan": "Crna, crvena, zlatna",
    "netacni": [
     "Crvena, žuta, crna",
-    "Plava, crvena, bela",
-    "Zelena, bela, crvena"
+    "Plava, crvena, bijela",
+    "Zelena, bijela, crvena"
    ]
   },
   {
    "id": 924,
    "kategorija": "opste",
    "pitanje": "Koje boje je zastava Italije?",
-   "tacan": "Zelena, bela, crvena",
+   "tacan": "Zelena, bijela, crvena",
    "netacni": [
-    "Crvena, bela, plava",
+    "Crvena, bijela, plava",
     "Zelena, žuta, crvena",
-    "Bela, crvena, plava"
+    "Bijela, crvena, plava"
    ]
   },
   {
    "id": 925,
    "kategorija": "opste",
    "pitanje": "Koje boje je zastava Francuske?",
-   "tacan": "Plava, bela, crvena",
+   "tacan": "Plava, bijela, crvena",
    "netacni": [
-    "Crvena, bela, plava",
-    "Zelena, bela, crvena",
+    "Crvena, bijela, plava",
+    "Zelena, bijela, crvena",
     "Plava, žuta, crvena"
    ]
   },
   {
    "id": 926,
    "kategorija": "opste",
-   "pitanje": "Koja zastava je crvena sa belim krstom?",
+   "pitanje": "Koja zastava je crvena sa bijelim krstom?",
    "tacan": "Švajcarska",
    "netacni": [
     "Danska",
@@ -10198,7 +10198,7 @@
   {
    "id": 927,
    "kategorija": "opste",
-   "pitanje": "Koja zastava ima crveni krug na beloj podlozi?",
+   "pitanje": "Koja zastava ima crveni krug na bijeloj podlozi?",
    "tacan": "Japan",
    "netacni": [
     "Kina",
@@ -10220,7 +10220,7 @@
   {
    "id": 929,
    "kategorija": "opste",
-   "pitanje": "Koja država ima zastavu sa 50 zvezda?",
+   "pitanje": "Koja država ima zastavu sa 50 zvijezda?",
    "tacan": "SAD",
    "netacni": [
     "Brazil",
@@ -10231,7 +10231,7 @@
   {
    "id": 930,
    "kategorija": "opste",
-   "pitanje": "Koliko zvezda ima zastava Evropske unije?",
+   "pitanje": "Koliko zvijezda ima zastava Evropske unije?",
    "tacan": "12",
    "netacni": [
     "10",
@@ -10275,7 +10275,7 @@
   {
    "id": 934,
    "kategorija": "opste",
-   "pitanje": "Koja marka automobila ima plavo-belu propelersku oznaku?",
+   "pitanje": "Koja marka automobila ima plavo-bijelu propelersku oznaku?",
    "tacan": "BMW",
    "netacni": [
     "Audi",
@@ -10462,7 +10462,7 @@
   {
    "id": 951,
    "kategorija": "opste",
-   "pitanje": "Koja video igra je poznata po blokovima i kopanju?",
+   "pitanje": "Koja vidio igra je poznata po blokovima i kopanju?",
    "tacan": "Majnkraft",
    "netacni": [
     "Fortnajt",
@@ -10528,7 +10528,7 @@
   {
    "id": 957,
    "kategorija": "opste",
-   "pitanje": "Koja je najvrednija šahovska figura osim kralja?",
+   "pitanje": "Koja je najvrjednija šahovska figura osim kralja?",
    "tacan": "Kraljica",
    "netacni": [
     "Top",
@@ -10561,7 +10561,7 @@
   {
    "id": 960,
    "kategorija": "opste",
-   "pitanje": "Ko je izumeo Rubikovu kocku?",
+   "pitanje": "Ko je izumio Rubikovu kocku?",
    "tacan": "Erno Rubik",
    "netacni": [
     "Nikola Tesla",
@@ -10572,7 +10572,7 @@
   {
    "id": 961,
    "kategorija": "opste",
-   "pitanje": "Koji je najveći broj na dve šestostrane kocke?",
+   "pitanje": "Koji je najveći broj na dvije šestostrane kocke?",
    "tacan": "12",
    "netacni": [
     "10",
@@ -10597,7 +10597,7 @@
    "pitanje": "Koji praznik se slavi u Srbiji 1. maja?",
    "tacan": "Praznik rada",
    "netacni": [
-    "Dan pobede",
+    "Dan pobjede",
     "Dan državnosti",
     "Dan zaljubljenih"
    ]
@@ -10650,7 +10650,7 @@
    "id": 968,
    "kategorija": "opste",
    "pitanje": "Šta se slavi 9. maja u Srbiji?",
-   "tacan": "Dan pobede nad fašizmom",
+   "tacan": "Dan pobjede nad fašizmom",
    "netacni": [
     "Dan rada",
     "Dan državnosti",
@@ -10836,7 +10836,7 @@
   {
    "id": 985,
    "kategorija": "opste",
-   "pitanje": "Koja reka je granica između Srbije i Rumunije dobrim delom?",
+   "pitanje": "Koja rijeka je granica između Srbije i Rumunije dobrim dijelom?",
    "tacan": "Dunav",
    "netacni": [
     "Tisa",
@@ -10880,7 +10880,7 @@
   {
    "id": 989,
    "kategorija": "opste",
-   "pitanje": "Koji grad je poznat po Lazarevom gradu i Kruševcu kao prestonici kneza Lazara?",
+   "pitanje": "Koji grad je poznat po Lazarevom gradu i Kruševcu kao prijestonici kneza Lazara?",
    "tacan": "Kruševac",
    "netacni": [
     "Kraljevo",
@@ -10894,7 +10894,7 @@
    "pitanje": "Koji je najviši vrh Fruške gore?",
    "tacan": "Crveni čot",
    "netacni": [
-    "Iriški venac",
+    "Iriški vijenac",
     "Čortanovci",
     "Stražilovo"
    ]
@@ -10916,7 +10916,7 @@
    "pitanje": "Ko je Josif Pančić?",
    "tacan": "Botaničar",
    "netacni": [
-    "Pesnik",
+    "Pjesnik",
     "Slikar",
     "Vojskovođa"
    ]
@@ -10960,7 +10960,7 @@
    "pitanje": "Ko je Mihailo Petrović Alas?",
    "tacan": "Matematičar i ribolovac",
    "netacni": [
-    "Pesnik",
+    "Pjesnik",
     "Vojskovođa",
     "Slikar"
    ]
@@ -10990,7 +10990,7 @@
   {
    "id": 999,
    "kategorija": "opste",
-   "pitanje": "Koje dve reke grade Veliku Moravu?",
+   "pitanje": "Koje dvije rijeke grade Veliku Moravu?",
    "tacan": "Zapadna i Južna Morava",
    "netacni": [
     "Sava i Dunav",
@@ -11024,7 +11024,7 @@
    "id": 1002,
    "kategorija": "opste",
    "pitanje": "Koja životinja je simbol Nacionalnog parka Tara?",
-   "tacan": "Mrki medved",
+   "tacan": "Mrki medvjed",
    "netacni": [
     "Vuk",
     "Ris",
@@ -11079,18 +11079,18 @@
    "id": 1007,
    "kategorija": "opste",
    "pitanje": "Šta je kajmak?",
-   "tacan": "Mlečni namaz",
+   "tacan": "Mliječni namaz",
    "netacni": [
     "Sir",
     "Meso",
-    "Hleb"
+    "Hljeb"
    ]
   },
   {
    "id": 1008,
    "kategorija": "opste",
    "pitanje": "Šta je proja?",
-   "tacan": "Hleb od kukuruznog brašna",
+   "tacan": "Hljeb od kukuruznog brašna",
    "netacni": [
     "Torta",
     "Sir",
@@ -11122,7 +11122,7 @@
   {
    "id": 1011,
    "kategorija": "opste",
-   "pitanje": "Kako se zove ženska narodna odeća na Balkanu koja se veže oko struka?",
+   "pitanje": "Kako se zove ženska narodna odjeća na Balkanu koja se veže oko struka?",
    "tacan": "Pregača",
    "netacni": [
     "Šajkača",
@@ -11178,7 +11178,7 @@
    "id": 1016,
    "kategorija": "opste",
    "pitanje": "Šta je \"kum\" na srpskoj svadbi?",
-   "tacan": "Svedok i duhovni zaštitnik",
+   "tacan": "Svjedok i duhovni zaštitnik",
    "netacni": [
     "Mladoženja",
     "Muzičar",
@@ -11188,7 +11188,7 @@
   {
    "id": 1017,
    "kategorija": "opste",
-   "pitanje": "Šta se seče za Božić u srpskim domovima?",
+   "pitanje": "Šta se siječe za Božić u srpskim domovima?",
    "tacan": "Badnjak",
    "netacni": [
     "Božićna jelka",

@@ -196,7 +196,7 @@ class _MatchScreenState extends State<MatchScreen> {
     final correct = q.isCorrect(_chosen);
     final color = correct ? AppColors.green : AppColors.red;
     final title = _chosen == null
-        ? 'Vreme je isteklo'
+        ? 'Vrijeme je isteklo'
         : correct
             ? 'Tačan odgovor!'
             : 'Netačan odgovor';

@@ -17,7 +17,7 @@ class ResultScreen extends StatelessWidget {
     final p = match.playerTotal;
     final o = match.opponentTotal;
     final questions = DuelMatch.roundsTotal * DuelMatch.questionsPerRound;
-    final title = p > o ? 'Pobeda!' : p < o ? 'Poraz' : 'Nerešeno';
+    final title = p > o ? 'Pobjeda!' : p < o ? 'Poraz' : 'Neriješeno';
     final accuracy = (p * 100 / questions).round();
     return Scaffold(
       appBar: AppBar(title: const Text('Rezultat partije'), automaticallyImplyLeading: false),

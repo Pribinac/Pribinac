@@ -2,7 +2,7 @@ Koji je glavni grad Srbije?|Beograd|Novi Sad|Niš|Kragujevac
 Koji je glavni grad Hrvatske?|Zagreb|Split|Rijeka|Osijek
 Koji je glavni grad Bosne i Hercegovine?|Sarajevo|Banja Luka|Mostar|Tuzla
 Koji je glavni grad Crne Gore?|Podgorica|Cetinje|Nikšić|Budva
-Koji je glavni grad Severne Makedonije?|Skoplje|Bitolj|Ohrid|Tetovo
+Koji je glavni grad Sjeverne Makedonije?|Skoplje|Bitolj|Ohrid|Tetovo
 Koji je glavni grad Slovenije?|Ljubljana|Maribor|Celje|Kranj
 Koji je glavni grad Albanije?|Tirana|Drač|Valona|Skadar
 Koji je glavni grad Bugarske?|Sofija|Plovdiv|Varna|Burgas
@@ -43,34 +43,34 @@ Koji je glavni grad Meksika?|Meksiko Siti|Gvadalahara|Kankun|Monterej
 Koji je glavni grad Južne Koreje?|Seul|Pusan|Inčon|Tegu
 Koji je glavni grad Tajlanda?|Bangkok|Čijang Maj|Pataja|Fuket
 Koji je glavni grad Kenije?|Najrobi|Mombasa|Kisumu|Nakuru
-Koja reka protiče kroz Beograd i uliva se u Dunav?|Sava|Drina|Morava|Ibar
-Kroz koji grad protiče reka Nišava?|Niš|Kraljevo|Čačak|Valjevo
-Koja reka čini veći deo granice između Srbije i Bosne i Hercegovine?|Drina|Sava|Una|Bosna
+Koja rijeka protiče kroz Beograd i uliva se u Dunav?|Sava|Drina|Morava|Ibar
+Kroz koji grad protiče rijeka Nišava?|Niš|Kraljevo|Čačak|Valjevo
+Koja rijeka čini veći dio granice između Srbije i Bosne i Hercegovine?|Drina|Sava|Una|Bosna
 Koja je najviša planina u Srbiji?|Midžor|Kopaonik|Zlatibor|Tara
 Koja je najviša planina na Balkanskom poluostrvu?|Musala (Rila)|Triglav|Olimp|Durmitor
-Koja je najviša planina na svetu?|Mont Everest|K2|Kančendženga|Makalu
+Koja je najviša planina na svijetu?|Mont Everest|K2|Kančendženga|Makalu
 Koja je najviša planina u Africi?|Kilimandžaro|Kenija|Atlas|Ruvenzori
 Koja je najviša planina Južne Amerike?|Akonkagva|Kotopaksi|Čimborazo|Ojos del Salado
-Koja je najveća država na svetu po površini?|Rusija|Kanada|Kina|SAD
-Koja je država na svetu najmnogoljudnija?|Indija|Kina|SAD|Indonezija
-Koja je najmanja država na svetu?|Vatikan|Monako|San Marino|Lihtenštajn
-Koji je najveći okean?|Tihi okean|Atlantski okean|Indijski okean|Severni ledeni okean
-Koji je najveći kontinent po površini?|Azija|Afrika|Severna Amerika|Evropa
+Koja je najveća država na svijetu po površini?|Rusija|Kanada|Kina|SAD
+Koja je država na svijetu najmnogoljudnija?|Indija|Kina|SAD|Indonezija
+Koja je najmanja država na svijetu?|Vatikan|Monako|San Marino|Lihtenštajn
+Koji je najveći okean?|Tihi okean|Atlantski okean|Indijski okean|Sjeverni ledeni okean
+Koji je najveći kontinent po površini?|Azija|Afrika|Sjeverna Amerika|Evropa
 Koji je najmanji kontinent?|Australija|Evropa|Antarktik|Južna Amerika
-Koja je najduža reka na svetu?|Nil|Amazon|Jangce|Misisipi
-Koja reka protiče kroz Pariz?|Sena|Loara|Rona|Garona
-Koja reka protiče kroz London?|Temza|Mersi|Severn|Triv
-Koja reka protiče kroz Prag?|Vltava|Laba|Odra|Morava
-Koja reka protiče kroz Beč i Budimpeštu?|Dunav|Rajna|Visla|Elba
-Koja reka protiče kroz Rim?|Tibar|Po|Arno|Adiđe
-Koja reka protiče kroz Kairo?|Nil|Eufrat|Tigar|Zambezi
+Koja je najduža rijeka na svijetu?|Nil|Amazon|Jangce|Misisipi
+Koja rijeka protiče kroz Pariz?|Sena|Loara|Rona|Garona
+Koja rijeka protiče kroz London?|Temza|Mersi|Severn|Triv
+Koja rijeka protiče kroz Prag?|Vltava|Laba|Odra|Morava
+Koja rijeka protiče kroz Beč i Budimpeštu?|Dunav|Rajna|Visla|Elba
+Koja rijeka protiče kroz Rim?|Tibar|Po|Arno|Adiđe
+Koja rijeka protiče kroz Kairo?|Nil|Eufrat|Tigar|Zambezi
 Koje je najveće jezero u Srbiji?|Đerdapsko jezero|Palićko jezero|Vlasinsko jezero|Zlatarsko jezero
-Koje je najdublje jezero na svetu?|Bajkalsko jezero|Viktorijino jezero|Tanganjika|Ontario
+Koje je najdublje jezero na svijetu?|Bajkalsko jezero|Viktorijino jezero|Tanganjika|Ontario
 Koje je najveće jezero na Balkanu?|Skadarsko jezero|Ohridsko jezero|Prespansko jezero|Bledsko jezero
-Na kojoj reci se nalazi Đerdapska klisura?|Dunav|Sava|Morava|Tisa
+Na kojoj rijeci se nalazi Đerdapska klisura?|Dunav|Sava|Morava|Tisa
 Koje more oplakuje obalu Hrvatske?|Jadransko more|Egejsko more|Crno more|Jonsko more
-Koje more se nalazi između Evrope i Male Azije severno od Turske?|Crno more|Mramorno more|Egejsko more|Kaspijsko more
-Koje je najveće ostrvo na svetu?|Grenland|Madagaskar|Borneo|Nova Gvineja
+Koje more se nalazi između Evrope i Male Azije sjeverno od Turske?|Crno more|Mramorno more|Egejsko more|Kaspijsko more
+Koje je najveće ostrvo na svijetu?|Grenland|Madagaskar|Borneo|Nova Gvineja
 Koje je najveće grčko ostrvo?|Krit|Rodos|Krf|Lezbos
 Na kom se ostrvu nalazi grad Palermo?|Sicilija|Sardinija|Krf|Malta
 Koja država ima oblik čizme?|Italija|Grčka|Španija|Hrvatska
@@ -109,7 +109,7 @@ Koja je valuta u Poljskoj?|Zlot|Evro|Kruna|Forinta
 Koja je valuta u Mađarskoj?|Forinta|Zlot|Kruna|Lej
 Koja je valuta u Rumuniji?|Lej|Lev|Forinta|Kruna
 Koja je valuta u Bugarskoj?|Lev|Lej|Dinar|Evro
-Koja je valuta u Severnoj Makedoniji?|Denar|Dinar|Lek|Lev
+Koja je valuta u Sjevernoj Makedoniji?|Denar|Dinar|Lek|Lev
 Koja je valuta u Albaniji?|Lek|Lev|Lej|Denar
 Koja je valuta u Turskoj?|Lira|Dinar|Rupija|Rubalj
 Koja je valuta u Rusiji?|Rubalj|Hrivnja|Zlot|Lira
@@ -120,14 +120,14 @@ Koji je zvanični jezik u Argentini?|Španski|Portugalski|Italijanski|Engleski
 Koji se jezik govori u Austriji?|Nemački|Mađarski|Italijanski|Češki
 Koji su zvanični jezici u Belgiji?|Holandski, francuski i nemački|Samo francuski|Samo holandski|Engleski i francuski
 Koja država ima najviše vremenskih zona, računajući prekomorske teritorije?|Francuska|Rusija|SAD|Velika Britanija
-Koji kontinent je najhladniji?|Antarktik|Azija|Severna Amerika|Evropa
-Koja pustinja je najveća vrela pustinja na svetu?|Sahara|Gobi|Kalahari|Atakama
-Koja pustinja je najsuvlja na svetu?|Atakama|Sahara|Gobi|Namib
-Koji tesnac razdvaja Evropu i Afriku?|Gibraltar|Bosfor|Mesina|Dardaneli
+Koji kontinent je najhladniji?|Antarktik|Azija|Sjeverna Amerika|Evropa
+Koja pustinja je najveća vrela pustinja na svijetu?|Sahara|Gobi|Kalahari|Atakama
+Koja pustinja je najsuvlja na svijetu?|Atakama|Sahara|Gobi|Namib
+Koji tjesnac razdvaja Evropu i Afriku?|Gibraltar|Bosfor|Mesina|Dardaneli
 Koji je najveći grad u Švajcarskoj?|Cirih|Bern|Ženeva|Bazel
 Koji je najveći grad u Australiji?|Sidnej|Kanbera|Melburn|Brizbejn
 Koji je najveći grad u Turskoj?|Istanbul|Ankara|Izmir|Antalija
-Koji je najveći grad u Hrvatskoj posle Zagreba?|Split|Rijeka|Osijek|Zadar
+Koji je najveći grad u Hrvatskoj poslije Zagreba?|Split|Rijeka|Osijek|Zadar
 Koji je drugi po veličini grad u Srbiji?|Novi Sad|Niš|Kragujevac|Subotica
 Koji je treći po veličini grad u Srbiji?|Niš|Kragujevac|Subotica|Leskovac
 Koji grad je glavni grad Vojvodine?|Novi Sad|Subotica|Zrenjanin|Pančevo
@@ -135,22 +135,22 @@ Koji grad je poznat kao "grad ruža"?|Kazanlak|Sofija|Plovdiv|Varna
 Koja država se naziva "zemlja izlazećeg sunca"?|Japan|Kina|Koreja|Tajland
 Koja država se naziva "zemlja hiljadu jezera"?|Finska|Švedska|Norveška|Kanada
 Koja država je poznata po fjordovima?|Norveška|Španija|Italija|Grčka
-Koja država je poznata po lalama i vetrenjačama?|Holandija|Belgija|Danska|Nemačka
+Koja država je poznata po lalama i vjetrenjačama?|Holandija|Belgija|Danska|Nemačka
 Koja država ima najviše stanovnika u Africi?|Nigerija|Egipat|Etiopija|Južna Afrika
 Koja je najveća država u Južnoj Americi?|Brazil|Argentina|Peru|Kolumbija
 Koja je najveća država u Africi po površini?|Alžir|Kongo|Sudan|Libija
-Koja država ima najviše ostrva na svetu?|Švedska|Indonezija|Filipini|Japan
-Koja reka je najduža u Evropi?|Volga|Dunav|Dnjepar|Ural
-Koja je druga najduža reka u Evropi?|Dunav|Rajna|Elba|Vistula
+Koja država ima najviše ostrva na svijetu?|Švedska|Indonezija|Filipini|Japan
+Koja rijeka je najduža u Evropi?|Volga|Dunav|Dnjepar|Ural
+Koja je druga najduža rijeka u Evropi?|Dunav|Rajna|Elba|Vistula
 Kroz koliko država protiče Dunav?|10|5|7|14
-Gde se uliva Dunav?|U Crno more|U Jadransko more|U Baltičko more|U Kaspijsko more
-Gde izvire Dunav?|U Crnoj šumi (Nemačka)|U Alpima (Švajcarska)|U Karpatima|U Tatrama
+Gdje se uliva Dunav?|U Crno more|U Jadransko more|U Baltičko more|U Kaspijsko more
+Gdje izvire Dunav?|U Crnoj šumi (Nemačka)|U Alpima (Švajcarska)|U Karpatima|U Tatrama
 Koja planina razdvaja Evropu od Azije?|Ural|Kavkaz|Alpi|Karpati
-Koji planinski venac prolazi kroz Italiju i Švajcarsku?|Alpi|Pirineji|Karpati|Dinaridi
-Koji planinski venac razdvaja Španiju i Francusku?|Pirineji|Alpi|Apenini|Karpati
+Koji planinski vijenac prolazi kroz Italiju i Švajcarsku?|Alpi|Pirineji|Karpati|Dinaridi
+Koji planinski vijenac razdvaja Španiju i Francusku?|Pirineji|Alpi|Apenini|Karpati
 Koji vulkan je poznat po uništenju Pompeje?|Vezuv|Etna|Stromboli|Olimp
 Koji vulkan se nalazi na Siciliji?|Etna|Vezuv|Stromboli|Krakatau
 Koja je država poznata po Mačo Pikču?|Peru|Čile|Bolivija|Meksiko
 Koja država je poznata po Velikom kineskom zidu?|Kina|Japan|Mongolija|Koreja
 Koja država je poznata po piramidama u Gizi?|Egipat|Sudan|Libija|Maroko
-Gde se nalazi Tadž Mahal?|Indija|Pakistan|Bangladeš|Nepal
+Gdje se nalazi Tadž Mahal?|Indija|Pakistan|Bangladeš|Nepal

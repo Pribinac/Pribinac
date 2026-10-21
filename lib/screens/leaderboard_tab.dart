@@ -16,7 +16,7 @@ class _LeaderboardTabState extends State<LeaderboardTab> {
 
   @override
   Widget build(BuildContext context) {
-    const filters = ['Ukupno', 'Prijatelji', 'Nedeljno'];
+    const filters = ['Ukupno', 'Prijatelji', 'Nedjeljno'];
     return ListView(
       padding: const EdgeInsets.all(20),
       children: [

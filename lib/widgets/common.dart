@@ -106,7 +106,7 @@ class PlayerTile extends StatelessWidget {
               crossAxisAlignment: CrossAxisAlignment.start,
               children: [
                 Text(player.name, style: const TextStyle(fontWeight: FontWeight.w600, fontSize: 16)),
-                Text('Nivo ${player.level} | ${player.wins} pobeda',
+                Text('Nivo ${player.level} | ${player.wins} pobjeda',
                     style: const TextStyle(color: AppColors.muted, fontSize: 12)),
               ],
             ),

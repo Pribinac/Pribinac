@@ -5,12 +5,12 @@ Koji fudbalski klub je poznat kao "Blaugrana"?|Barselona|Real Madrid|Valensija|S
 Koji fudbalski klub je poznat kao "Rosoneri"?|Milan|Inter|Juventus|Napoli
 Koji klub iz Nemačke igra na stadionu Signal Iduna Park?|Borusija Dortmund|Bajern|Šalke|Lajpcig
 Ko je trener koji je 2024. vodio Real Madrid do titule u Ligi šampiona?|Karlo Anćeloti|Zinedin Zidan|Žoze Murinjo|Hansi Flik
-Koji fudbaler je osvojio Svetsko prvenstvo kao igrač i kao trener, Franc Bekenbauer?|Franc Bekenbauer|Johan Krojf|Mišel Platini|Pele
+Koji fudbaler je osvojio Svjetsko prvenstvo kao igrač i kao trener, Franc Bekenbauer?|Franc Bekenbauer|Johan Krojf|Mišel Platini|Pele
 Koji sport igraju Los Anđeles Lejkers?|Košarka|Fudbal|Hokej|Bejzbol
 Koji sport igraju Njujork Jenkisi?|Bejzbol|Košarka|Hokej|Američki fudbal
 Koji sport je najpopularniji u Kanadi zimi?|Hokej na ledu|Košarka|Kriket|Fudbal
 Koliko boja ima olimpijski krugovi?|5|4|6|7
 Koliko krugova ima olimpijski simbol?|5|4|6|7
-Koje boje je prva pozicija na pobedničkom postolju?|Zlatna|Srebrna|Bronzana|Crvena
+Koje boje je prva pozicija na pobjedničkom postolju?|Zlatna|Srebrna|Bronzana|Crvena
 Koja država je izumela džudo?|Japan|Kina|Koreja|Tajland
 Koja država je izumela tekvondo?|Južna Koreja|Japan|Kina|Tajland

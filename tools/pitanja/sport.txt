@@ -1,18 +1,18 @@
 Koliko igrača jedne ekipe je na terenu u fudbalu?|11|9|10|12
-Koliko traje regularno vreme fudbalske utakmice?|90 minuta|80 minuta|100 minuta|120 minuta
-Koja država je osvojila Svetsko prvenstvo u fudbalu 2022?|Argentina|Francuska|Hrvatska|Brazil
-Koja država je osvojila Svetsko prvenstvo u fudbalu 2018?|Francuska|Hrvatska|Belgija|Engleska
-Koja država je osvojila Svetsko prvenstvo u fudbalu 2014?|Nemačka|Argentina|Holandija|Brazil
-Koja država je osvojila Svetsko prvenstvo u fudbalu 2010?|Španija|Holandija|Nemačka|Urugvaj
-Koja država je osvojila najviše Svetskih prvenstava u fudbalu?|Brazil|Nemačka|Italija|Argentina
-Koliko puta je Brazil osvojio Svetsko prvenstvo u fudbalu?|5|4|3|6
-Gde je održano prvo Svetsko prvenstvo u fudbalu 1930?|Urugvaj|Brazil|Italija|Francuska
-Koja država je domaćin Svetskog prvenstva 2026?|SAD, Kanada i Meksiko|Katar|Rusija|Brazil
-Koja država je bila domaćin Svetskog prvenstva 2022?|Katar|Rusija|Brazil|Južna Afrika
+Koliko traje regularno vrijeme fudbalske utakmice?|90 minuta|80 minuta|100 minuta|120 minuta
+Koja država je osvojila Svjetsko prvenstvo u fudbalu 2022?|Argentina|Francuska|Hrvatska|Brazil
+Koja država je osvojila Svjetsko prvenstvo u fudbalu 2018?|Francuska|Hrvatska|Belgija|Engleska
+Koja država je osvojila Svjetsko prvenstvo u fudbalu 2014?|Nemačka|Argentina|Holandija|Brazil
+Koja država je osvojila Svjetsko prvenstvo u fudbalu 2010?|Španija|Holandija|Nemačka|Urugvaj
+Koja država je osvojila najviše Svjetskih prvenstava u fudbalu?|Brazil|Nemačka|Italija|Argentina
+Koliko puta je Brazil osvojio Svjetsko prvenstvo u fudbalu?|5|4|3|6
+Gdje je održano prvo Svjetsko prvenstvo u fudbalu 1930?|Urugvaj|Brazil|Italija|Francuska
+Koja država je domaćin Svjetskog prvenstva 2026?|SAD, Kanada i Meksiko|Katar|Rusija|Brazil
+Koja država je bila domaćin Svjetskog prvenstva 2022?|Katar|Rusija|Brazil|Južna Afrika
 Ko je dao čuveni gol "Božja ruka" 1986?|Dijego Maradona|Pele|Lionel Mesi|Roberto Bađo
-Ko je najbolji strelac u istoriji Svetskih prvenstava?|Miroslav Klose|Pele|Ronaldo Nazario|Žist Fontejn
+Ko je najbolji strijelac u istoriji Svjetskih prvenstava?|Miroslav Klose|Pele|Ronaldo Nazario|Žist Fontejn
 Ko je osvojio najviše Zlatnih lopti u fudbalu?|Lionel Mesi|Kristijano Ronaldo|Mišel Platini|Johan Krojf
-Za koji klub je igrao Kristijano Ronaldo pre Reala?|Mančester junajted|Juventus|Barselona|Šalke
+Za koji klub je igrao Kristijano Ronaldo prije Reala?|Mančester junajted|Juventus|Barselona|Šalke
 Koji fudbalski klub je poznat kao "Kraljevski klub"?|Real Madrid|Barselona|Atletiko Madrid|Valensija
 Kako se popularno zove stadion Crvene zvezde?|Marakana|Kamp Nou|Anfild|Olimpico
 Koje godine je Crvena zvezda osvojila Kup evropskih šampiona?|1991|1990|1992|1995
@@ -28,20 +28,20 @@ Na kojoj podlozi se igra Rolan Garos?|Šljaka|Trava|Tvrda podloga|Tepih
 Koji turnir se igra u Melburnu?|Australijan open|Vimbldon|Ju-Es open|Rolan Garos
 Koji teniser je poznat kao "kralj šljake"?|Rafael Nadal|Rodžer Federer|Novak Đoković|Endi Mari
 Ko je teniserka sa najviše Grend slem titula u eri Open?|Serena Vilijams|Marija Šarapova|Štefi Graf|Monika Seleš
-Koja srpska teniserka je bila prva na svetu 2008?|Ana Ivanović|Jelena Janković|Jelena Dokić|Bojana Jovanovski
-Koja bivša prva teniserka sveta je rođena u Novom Sadu?|Monika Seleš|Ana Ivanović|Jelena Janković|Mima Jaušovec
+Koja srpska teniserka je bila prva na svijetu 2008?|Ana Ivanović|Jelena Janković|Jelena Dokić|Bojana Jovanovski
+Koja bivša prva teniserka svijeta je rođena u Novom Sadu?|Monika Seleš|Ana Ivanović|Jelena Janković|Mima Jaušovec
 Koja država je osvojila najviše olimpijskih medalja u istoriji?|SAD|Kina|Rusija|Nemačka
-Gde su održane Olimpijske igre 2024?|Pariz|Tokio|Los Anđeles|London
-Gde će biti održane Olimpijske igre 2028?|Los Anđeles|Brizbejn|Pariz|Tokio
-Gde su održane Olimpijske igre 2016?|Rio de Žaneiro|London|Peking|Tokio
-Gde su održane Olimpijske igre 2012?|London|Peking|Rio de Žaneiro|Atina
-Gde su održane Olimpijske igre 2008?|Peking|Atina|London|Sidnej
-Gde su održane Zimske olimpijske igre 1984?|Sarajevo|Kalgari|Insbruk|Lejk Plesid
+Gdje su održane Olimpijske igre 2024?|Pariz|Tokio|Los Anđeles|London
+Gdje će biti održane Olimpijske igre 2028?|Los Anđeles|Brizbejn|Pariz|Tokio
+Gdje su održane Olimpijske igre 2016?|Rio de Žaneiro|London|Peking|Tokio
+Gdje su održane Olimpijske igre 2012?|London|Peking|Rio de Žaneiro|Atina
+Gdje su održane Olimpijske igre 2008?|Peking|Atina|London|Sidnej
+Gdje su održane Zimske olimpijske igre 1984?|Sarajevo|Kalgari|Insbruk|Lejk Plesid
 Koja država je domaćin zimskih olimpijskih igara 2022?|Kina|Južna Koreja|Rusija|Kanada
 Kako se zvao maskota Zimskih olimpijskih igara u Sarajevu 1984?|Vučko|Miško|Zuzi|Soko
 Koliko traje košarkaška utakmica u FIBA pravilima?|4 x 10 minuta|4 x 12 minuta|2 x 20 minuta|3 x 15 minuta
 Koliko igrača jedne ekipe je na terenu u košarci?|5|6|7|4
-Koliko poena vredi šut iza linije za tri poena?|3|2|4|1
+Koliko poena vrijedi šut iza linije za tri poena?|3|2|4|1
 Ko je srpski košarkaš koji je trostruki MVP NBA lige?|Nikola Jokić|Vlade Divac|Peja Stojaković|Bogdan Bogdanović
 Za koji NBA klub igra Nikola Jokić?|Denver Nagets|Los Anđeles Lejkers|Boston Seltiks|Čikago Bulsi
 Koji srpski košarkaš je član Kuće slavnih i igrao za Lejkerse?|Vlade Divac|Predrag Stojaković|Dejan Bodiroga|Dražen Petrović
@@ -51,10 +51,10 @@ Koliko NBA titula je osvojio Majkl Džordan?|6|5|7|3
 Ko je poznat kao "Kralj Džejms"?|Lebron Džejms|Kevin Durant|Stefen Kari|Džejms Harden
 Koji srpski klub je osvajao Evroligu?|Partizan|Crvena zvezda|Mega|Borac
 Koje godine je Partizan osvojio Evroligu?|1992|1989|1995|2000
-Koja država je pobedila na Evropskom prvenstvu u fudbalu 2024?|Španija|Engleska|Francuska|Nemačka
-Koja država je pobedila na Evropskom prvenstvu u fudbalu 2020?|Italija|Engleska|Španija|Francuska
-Koja država je pobedila Evropsko prvenstvo u fudbalu 2016?|Portugal|Francuska|Nemačka|Italija
-Ko je pobedio na Evropskom prvenstvu 1992 kao iznenađenje?|Danska|Nemačka|Holandija|Švedska
+Koja država je pobijedila na Evropskom prvenstvu u fudbalu 2024?|Španija|Engleska|Francuska|Nemačka
+Koja država je pobijedila na Evropskom prvenstvu u fudbalu 2020?|Italija|Engleska|Španija|Francuska
+Koja država je pobijedila Evropsko prvenstvo u fudbalu 2016?|Portugal|Francuska|Nemačka|Italija
+Ko je pobijedio na Evropskom prvenstvu 1992 kao iznenađenje?|Danska|Nemačka|Holandija|Švedska
 Koji golman je osvojio Zlatnu loptu 1963?|Lav Jašin|Gordon Benks|Dino Zof|Sepp Majer
 Koji klub igra na stadionu Anfild?|Liverpul|Arsenal|Čelsi|Everton
 Koji klub igra na stadionu Old Trafford?|Mančester junajted|Mančester siti|Liverpul|Tottenham
@@ -82,41 +82,41 @@ Koliko igrača jedne ekipe je na terenu u rukometu (uključujući golmana)?|7|6|
 Koliko igrača jedne ekipe je na terenu u vaterpolu (uključujući golmana)?|7|6|8|9
 Koji sport je Srbija osvojila olimpijsko zlato 2016 u ekipnom?|Vaterpolo|Košarka|Odbojka|Rukomet
 Koja srpska odbojkaška reprezentacija je osvojila zlato na Olimpijskim igrama 2000?|Jugoslavija (muška)|Srbija (ženska)|Srbija (muška)|Hrvatska
-Koja ženska odbojkaška reprezentacija Srbije je osvojila Svetsko prvenstvo 2018?|Srbija|Italija|Kina|Brazil
-Ko je srpska odbojkašica proglašena za najbolju igračicu sveta, Tijana Bošković?|Tijana Bošković|Jovana Brakočević|Brankica Mihajlović|Sanja Malagurski
-Ko je osvojio svetsko zlato u skoku uvis 1993, Dragutin Topić?|Dragutin Topić|Jan Železni|Hristos Papadopulos|Dušan Prezelj
+Koja ženska odbojkaška reprezentacija Srbije je osvojila Svjetsko prvenstvo 2018?|Srbija|Italija|Kina|Brazil
+Ko je srpska odbojkašica proglašena za najbolju igračicu svijeta, Tijana Bošković?|Tijana Bošković|Jovana Brakočević|Brankica Mihajlović|Sanja Malagurski
+Ko je osvojio svjetsko zlato u skoku uvis 1993, Dragutin Topić?|Dragutin Topić|Jan Železni|Hristos Papadopulos|Dušan Prezelj
 Ko je kapiten srpske vaterpolo reprezentacije koja je 2016. u Riju osvojila zlato?|Filip Filipović|Dušan Mandić|Stefan Mitrović|Slobodan Nikić
 Koji sport je Nikola Karabatić (Francuska)?|Rukomet|Košarka|Fudbal|Odbojka
 Koji sport je Mike Tajson?|Boks|Rvanje|Karate|Fudbal
 Ko je legendarni bokser poznat kao "Najveći"?|Muhamed Ali|Mike Tajson|Foreman|Frejzer
-Ko je pobedio Muhameda Alija u Borbi veka 1971?|Džo Frejzer|Džordž Foreman|Leon Spinks|Ken Norton
-Koja je boja pojasa najvišeg ranga u džudou?|Crna (viši dan crveno-beli)|Bela|Zelena|Plava
+Ko je pobijedio Muhameda Alija u Borbi vijeka 1971?|Džo Frejzer|Džordž Foreman|Leon Spinks|Ken Norton
+Koja je boja pojasa najvišeg ranga u džudou?|Crna (viši dan crveno-bijeli)|Bijela|Zelena|Plava
 Koji sport je Valentino Rosi?|Motociklizam|Formula 1|Rali|Biciklizam
-Ko je sedmostruki svetski šampion Formule 1 sa Mihaelom Šumaherom?|Luis Hamilton|Sebastijan Fetel|Ajrton Sena|Fernando Alonso
+Ko je sedmostruki svjetski šampion Formule 1 sa Mihaelom Šumaherom?|Luis Hamilton|Sebastijan Fetel|Ajrton Sena|Fernando Alonso
 Ko je Formula 1 vozač koji je osvojio titulu 2021?|Maks Verstapen|Luis Hamilton|Sebastijan Fetel|Karlos Sajns
-Koliko titula svetskog prvaka u Formuli 1 ima Mihael Šumaher?|7|5|6|8
-Koja ekipa je Šumaher vozio najuspešnije u Formuli 1?|Ferari|Mercedes|Beneton|Vilijams
+Koliko titula svjetskog prvaka u Formuli 1 ima Mihael Šumaher?|7|5|6|8
+Koja ekipa je Šumaher vozio najuspješnije u Formuli 1?|Ferari|Mercedes|Beneton|Vilijams
 Koja trka je poznata kao Monako grand pri?|Formula 1|MotoGP|Rali Dakar|Nascar
 U kom sportu se osvaja Tur de Frans?|Biciklizam|Trčanje|Plivanje|Veslanje
 Koja je boja majice lidera Tur de Fransa?|Žuta|Crvena|Zelena|Plava
 Koliko traje maraton?|42,195 km|21,1 km|10 km|50 km
 Ko je rekorder u trčanju na 100 metara?|Juzejn Bolt|Karl Luis|Tajson Gej|Asafa Pauel
-Koliko iznosi svetski rekord Juzejna Bolta na 100 m?|9,58 s|9,69 s|9,72 s|9,79 s
+Koliko iznosi svjetski rekord Juzejna Bolta na 100 m?|9,58 s|9,69 s|9,72 s|9,79 s
 Ko je najbolji skakač uvis svih vremena (rekord 2,45 m)?|Havijer Sotomajor|Stefan Holm|Bogdan Bondarenko|Mutaz Baršim
 Koja disciplina uključuje bacanje koplja?|Atletika|Gimnastika|Veslanje|Plivanje
 Kako se zove disciplina sa deset atletskih disciplina?|Desetoboj|Petoboj|Sedmoboj|Višeboj
-Ko je pobedio na Rolan Garosu 2023?|Novak Đoković|Rafael Nadal|Karlos Alkaras|Kasper Rud
+Ko je pobijedio na Rolan Garosu 2023?|Novak Đoković|Rafael Nadal|Karlos Alkaras|Kasper Rud
 Koji teniser je iz Španije i ima 14 titula na Rolan Garosu?|Rafael Nadal|Karlos Alkaras|Dejvid Ferer|Alberto Berasateki
-Ko je pobedio na Vimbldonu 2024?|Karlos Alkaras|Novak Đoković|Janik Siner|Danil Medvedev
+Ko je pobijedio na Vimbldonu 2024?|Karlos Alkaras|Novak Đoković|Janik Siner|Danil Medvedev
 Koji sport je Janik Siner?|Tenis|Skijanje|Fudbal|Plivanje
-Ko je legendarni šahovski prvak sveta iz Norveške?|Magnus Karlsen|Garri Kasparov|Anatolij Karpov|Bobi Fišer
-Ko je šahista koji je pobedio računar Deep Blue 1996. i izgubio 1997?|Garri Kasparov|Bobi Fišer|Anatolij Karpov|Magnus Karlsen
-Koji srpski šahista je igrao u meču stoleća 1970?|Svetozar Gligorić|Borislav Ivkov|Ljubomir Ljubojević|Bora Kostić
+Ko je legendarni šahovski prvak svijeta iz Norveške?|Magnus Karlsen|Garri Kasparov|Anatolij Karpov|Bobi Fišer
+Ko je šahista koji je pobijedio računar Deep Blue 1996. i izgubio 1997?|Garri Kasparov|Bobi Fišer|Anatolij Karpov|Magnus Karlsen
+Koji srpski šahista je igrao u meču stoljeća 1970?|Svetozar Gligorić|Borislav Ivkov|Ljubomir Ljubojević|Bora Kostić
 Ko je dobitnik Zlatne lopte 2007 iz Brazila?|Kaka|Ronaldinjo|Rivaldo|Ronaldo
 Koji fudbaler je dobio Zlatnu loptu 2018?|Luka Modrić|Kristijano Ronaldo|Lionel Mesi|Antoan Grizman
 Koji hrvatski fudbalski klub je iz Splita?|Hajduk|Dinamo|Rijeka|Osijek
 Koji srpski fudbalski klub je iz Niša?|Radnički|Vojvodina|Čukarički|Spartak
-Koje godine je Srbija igrala na Svetskom prvenstvu u fudbalu kao samostalna zemlja prvi put?|2010|2006|2014|2018
+Koje godine je Srbija igrala na Svjetskom prvenstvu u fudbalu kao samostalna zemlja prvi put?|2010|2006|2014|2018
 Ko je trener koji je vodio Srbiju na SP 2018?|Mladen Krstajić|Slavoljub Muslin|Dragan Stojković|Radovan Ćurčić
 Ko je selektor fudbalske reprezentacije Srbije 2023?|Dragan Stojković Piksi|Mladen Krstajić|Siniša Mihajlović|Slavoljub Muslin
 Ko je poznati fudbaler Srbije sa nadimkom "Piksi"?|Dragan Stojković|Siniša Mihajlović|Dejan Savićević|Predrag Mijatović

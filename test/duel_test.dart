@@ -21,7 +21,7 @@ void main() {
     }
   });
 
-  test('tačan odgovor je uvek na označenom indeksu i odgovori su različiti', () {
+  test('tačan odgovor je uvijek na označenom indeksu i odgovori su različiti', () {
     final random = Random(1);
     for (final k in bank.categoryNames.keys) {
       for (final q in bank.draw(k, 40, random)) {
@@ -51,7 +51,7 @@ void main() {
     expect(match.opponentTotal, lessThanOrEqualTo(18));
   });
 
-  test('isteklo vreme (null) ne donosi poene', () {
+  test('isteklo vrijeme (null) ne donosi poene', () {
     final match = DuelMatch(bank, categories: cats, random: Random(3));
     match.startRound();
     for (var i = 0; i < 3; i++) {
@@ -60,7 +60,7 @@ void main() {
     expect(match.playerTotal, 0);
   });
 
-  test('protivnik sa veštinom 1.0 uvek pogađa, sa 0.0 nikad', () {
+  test('protivnik sa vještinom 1.0 uvijek pogađa, sa 0.0 nikad', () {
     final good = DuelMatch(bank, categories: cats, random: Random(5), opponentSkill: 1)..startRound();
     expect(good.opponentTotal, 3);
     final bad = DuelMatch(bank, categories: cats, random: Random(5), opponentSkill: 0)..startRound();

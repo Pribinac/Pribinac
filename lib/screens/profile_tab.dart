@@ -62,13 +62,13 @@ class ProfileTab extends StatelessWidget {
         const SizedBox(height: 20),
         Row(
           children: [
-            stat(Icons.workspace_premium, '124', 'Pobede', AppColors.gold),
+            stat(Icons.workspace_premium, '124', 'Pobjede', AppColors.gold),
             const SizedBox(width: 8),
             stat(Icons.bar_chart, '87', 'Odigranih partija', AppColors.me),
             const SizedBox(width: 8),
-            stat(Icons.gps_fixed, '78%', 'Uspešnost', AppColors.primary),
+            stat(Icons.gps_fixed, '78%', 'Uspješnost', AppColors.primary),
             const SizedBox(width: 8),
-            stat(Icons.local_fire_department, '12', 'Serija pobeda', AppColors.orange),
+            stat(Icons.local_fire_department, '12', 'Serija pobjeda', AppColors.orange),
           ],
         ),
         const SizedBox(height: 24),
